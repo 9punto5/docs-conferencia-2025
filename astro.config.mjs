@@ -19,17 +19,17 @@ export default defineConfig({
 				{
 					label: 'Roadmap',
 					items: [
-						{ label: 'General', slug: 'roadmap/general' },
+						{ label: 'General', link: '/roadmap/general/' },
 					],
 				},
 				{
 					label: 'Áreas',
 					items: [
-						{ label: 'Visión General', slug: 'areas/overview' },
-						{ label: 'Contenidos', slug: 'contenidos/planificacion' },
-						{ label: 'Producción', slug: 'produccion/planificacion' },
-						{ label: 'Marketing', slug: 'marketing/planificacion' },
-						{ label: 'Tecnología', slug: 'tecnologia/planificacion' },
+						{ label: 'Visión General', link: '/areas/overview/' },
+						{ label: 'Contenidos', link: '/contenidos/planificacion/' },
+						{ label: 'Producción', link: '/produccion/planificacion/' },
+						{ label: 'Marketing', link: '/marketing/planificacion/' },
+						{ label: 'Tecnología', link: '/tecnologia/planificacion/' },
 					],
 				},
 			],
