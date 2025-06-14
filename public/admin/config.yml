@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tu-usuario/tu-repo # Reemplaza con tu usuario y repositorio de GitHub
+  repo: 9punto5/docs-conferencia-2025
   branch: main
 
 # Media files stored in repo

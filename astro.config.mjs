@@ -9,7 +9,7 @@ export default defineConfig({
 		starlight({
 			title: 'Conferencia 2025',
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/tu-usuario/tu-repo' }
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/9punto5/docs-conferencia-2025' }
 			],
 			sidebar: [
 				{
