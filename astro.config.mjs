@@ -33,12 +33,6 @@ export default defineConfig({
 					],
 				},
 			],
-			defaultLocale: 'es',
-			locales: {
-				es: {
-					label: 'Español',
-				},
-			},
 		}),
 	],
 });
