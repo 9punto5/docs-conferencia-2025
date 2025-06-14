@@ -13,23 +13,51 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: 'Inicio',
+					label: '🏠 Inicio',
 					link: '/',
 				},
 				{
-					label: 'Roadmap',
+					label: '📊 Planificación General',
 					items: [
-						{ label: 'General', link: '/roadmap/general/' },
+						{ label: 'Dashboard', link: '/01-planificacion-general/dashboard/' },
+						{ label: 'Roadmap General', link: '/01-planificacion-general/roadmap/general/' },
+						{ label: 'Visión de Áreas', link: '/01-planificacion-general/overview/' },
 					],
 				},
 				{
-					label: 'Áreas',
+					label: '📝 Contenidos',
 					items: [
-						{ label: 'Visión General', link: '/areas/overview/' },
-						{ label: 'Contenidos', link: '/contenidos/planificacion/' },
-						{ label: 'Producción', link: '/produccion/planificacion/' },
-						{ label: 'Marketing', link: '/marketing/planificacion/' },
-						{ label: 'Tecnología', link: '/tecnologia/planificacion/' },
+						{ label: 'Planificación', link: '/02-contenidos/planificacion/' },
+						{ label: 'Speakers', link: '/02-contenidos/roles-participantes/speakers/' },
+						{ label: 'Workshops', link: '/02-contenidos/roles-participantes/workshops/' },
+						{ label: 'Facilitación', link: '/02-contenidos/roles-participantes/facilitacion/' },
+						{ label: 'Voluntarios', link: '/02-contenidos/roles-participantes/voluntarios/' },
+					],
+				},
+				{
+					label: '🎬 Producción',
+					items: [
+						{ label: 'Planificación', link: '/03-produccion/planificacion/' },
+					],
+				},
+				{
+					label: '📢 Marketing',
+					items: [
+						{ label: 'Planificación', link: '/04-marketing/planificacion/' },
+					],
+				},
+				{
+					label: '💻 Tecnología',
+					items: [
+						{ label: 'Planificación', link: '/05-tecnologia/planificacion/' },
+					],
+				},
+				{
+					label: '🎪 Eventos',
+					items: [
+						{ label: '⭐ Valdivia (Principal)', link: '/07-eventos/valdivia/agenda-general/' },
+						{ label: 'Paillaco', link: '/07-eventos/paillaco/' },
+						{ label: 'Santiago Prep', link: '/07-eventos/santiago-prep/' },
 					],
 				},
 			],

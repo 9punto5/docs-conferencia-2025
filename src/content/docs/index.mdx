@@ -7,12 +7,12 @@ hero:
     Conferencia 2025
   tagline: Centro de planificación y coordinación para el evento en Valdivia
   actions:
-    - text: Ver Roadmap
-      link: /roadmap/general/
+    - text: Dashboard Ejecutivo
+      link: /01-planificacion-general/dashboard/
       icon: right-arrow
       variant: primary
-    - text: Áreas de trabajo
-      link: /areas/overview/
+    - text: Roadmap General
+      link: /01-planificacion-general/roadmap/general/
       icon: document
 ---
 
@@ -46,50 +46,77 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
   </Card>
 </CardGrid>
 
-## Áreas de trabajo
+## Áreas de Trabajo
 
 <CardGrid>
-  <Card title="📢 Marketing y Diseño" icon="pencil" link="/marketing/planificacion/">
-    Estrategia de comunicación, diseño de materiales y difusión del evento.
-    
-    **Timeline**: Julio a Noviembre
-    - Estrategia y anuncios de speakers
-    - Venta de entradas por etapas
-    - Difusión de contenidos y formatos
-  </Card>
-  <Card title="📝 Contenidos" icon="document" link="/contenidos/planificacion/">
-    Selección de speakers, formatos de presentación y programa.
+  <Card title="📝 Contenidos" icon="document" link="/02-contenidos/planificacion/">
+    Gestión completa de participantes y programa del evento.
     
     **Timeline**: Junio a Noviembre
-    - Postulación y selección (Junio-Julio)
-    - Contratos y preparación (Agosto)
-    - Programa final (Septiembre)
+    - 4 roles: Speakers, Workshops, Facilitación, Voluntarios
+    - Postulación y selección (Jun-Jul)
+    - Preparación y coordinación (Ago-Oct)
   </Card>
-  <Card title="🎬 Producción" icon="setting" link="/produccion/planificacion/">
+  <Card title="🎬 Producción" icon="setting" link="/03-produccion/planificacion/">
     Logística, proveedores, venue y coordinación operativa.
     
     **Timeline**: Junio a Noviembre
-    - Definición de lugar y proveedores
-    - Staff y merchandising
-    - Logística operativa detallada
+    - Venue, hotel y proveedores
+    - Staff y voluntarios
+    - Materiales y merchandising
   </Card>
-  <Card title="💻 Tecnología y UX" icon="laptop" link="/tecnologia/planificacion/">
-    Sistemas de acreditación, streaming y herramientas digitales.
+  <Card title="📢 Marketing y Diseño" icon="pencil" link="/04-marketing/planificacion/">
+    Estrategia de comunicación, diseño de materiales y difusión.
+    
+    **Timeline**: Julio a Noviembre
+    - Anuncios de speakers y programa
+    - Venta de entradas por etapas
+    - Comunicación y promoción
+  </Card>
+  <Card title="💻 Tecnología y UX" icon="laptop" link="/05-tecnologia/planificacion/">
+    Sistemas digitales, acreditación y soporte técnico.
     
     **Timeline**: Junio a Noviembre
+    - Plataformas de postulación y entradas
     - Sistema de acreditación
-    - Dashboard y analytics
-    - Soporte técnico en vivo
+    - Streaming y analytics
   </Card>
 </CardGrid>
 
-## Acceso rápido
+## Eventos y Acceso Rápido
 
 <CardGrid stagger>
-  <Card title="🗺️ Roadmap General" icon="calendar" link="/roadmap/general/">
-    Timeline completo mes a mes con todas las actividades y fechas importantes del proyecto.
+  <Card title="⭐ Conferencia Valdivia" icon="star" link="/07-eventos/valdivia/agenda-general/">
+    **EVENTO PRINCIPAL** - 6, 7 y 8 de noviembre
+    
+    Conferencia principal con charlas, talleres y networking en Valdivia.
   </Card>
-  <Card title="🏢 Visión General de Áreas" icon="group" link="/areas/overview/">
-    Resumen ejecutivo de todas las áreas de trabajo y sus responsabilidades principales.
+  <Card title="🌲 Evento Paillaco" icon="tree-evergreen" link="/07-eventos/paillaco/">
+    **EVENTO PREVIO** - 5 de noviembre
+    
+    Evento preparatorio e inmersivo antes de la conferencia principal.
+  </Card>
+  <Card title="📊 Dashboard Ejecutivo" icon="chart" link="/01-planificacion-general/dashboard/">
+    Vista ejecutiva del estado general, próximos hitos y alertas críticas del proyecto.
+  </Card>
+  <Card title="🗺️ Roadmap Completo" icon="calendar" link="/01-planificacion-general/roadmap/general/">
+    Timeline detallado mes a mes con todas las actividades y fechas importantes.
+  </Card>
+</CardGrid>
+
+## Roles de Participación
+
+<CardGrid>
+  <Card title="🎤 Speakers" icon="microphone" link="/02-contenidos/roles-participantes/speakers/">
+    **Dar una charla** - Experiencias honestas y aprendizajes aplicables (10-15 charlas).
+  </Card>
+  <Card title="🛠️ Workshops" icon="tools" link="/02-contenidos/roles-participantes/workshops/">
+    **Dictar un taller** - Sesiones prácticas con herramientas concretas aplicables.
+  </Card>
+  <Card title="🤝 Facilitación" icon="handshake" link="/02-contenidos/roles-participantes/facilitacion/">
+    **Facilitar conversaciones** - Crear espacios donde la magia conversacional suceda.
+  </Card>
+  <Card title="❤️ Voluntarios" icon="heart" link="/02-contenidos/roles-participantes/voluntarios/">
+    **Apoyar la producción** - Crear experiencias memorables con proactividad y autonomía.
   </Card>
 </CardGrid>

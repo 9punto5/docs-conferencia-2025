@@ -10,23 +10,10 @@ public_folder: "/src/assets/images"
 
 # Collections define the content types
 collections:
-  - name: "roadmap"
-    label: "🗺️ Roadmap"
-    folder: "src/content/docs/roadmap"
-    create: false
-    delete: false
-    slug: "{{slug}}"
-    extension: "md"
-    format: "frontmatter"
-    fields:
-      - {label: "Título", name: "title", widget: "string"}
-      - {label: "Descripción", name: "description", widget: "string", required: false}
-      - {label: "Contenido", name: "body", widget: "markdown"}
-
-  - name: "areas"
-    label: "🏢 Áreas"
-    folder: "src/content/docs/areas"
-    create: false
+  - name: "planificacion-general"
+    label: "📊 Planificación General"
+    folder: "src/content/docs/01-planificacion-general"
+    create: true
     delete: false
     slug: "{{slug}}"
     extension: "md"
@@ -38,7 +25,20 @@ collections:
 
   - name: "contenidos"
     label: "📝 Contenidos"
-    folder: "src/content/docs/contenidos"
+    folder: "src/content/docs/02-contenidos"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "roles-participantes"
+    label: "👥 Roles de Participantes"
+    folder: "src/content/docs/02-contenidos/roles-participantes"
     create: false
     delete: false
     slug: "{{slug}}"
@@ -51,8 +51,8 @@ collections:
 
   - name: "produccion"
     label: "🎬 Producción"
-    folder: "src/content/docs/produccion"
-    create: false
+    folder: "src/content/docs/03-produccion"
+    create: true
     delete: false
     slug: "{{slug}}"
     extension: "md"
@@ -64,8 +64,8 @@ collections:
 
   - name: "marketing"
     label: "📢 Marketing"
-    folder: "src/content/docs/marketing"
-    create: false
+    folder: "src/content/docs/04-marketing"
+    create: true
     delete: false
     slug: "{{slug}}"
     extension: "md"
@@ -77,8 +77,60 @@ collections:
 
   - name: "tecnologia"
     label: "💻 Tecnología"
-    folder: "src/content/docs/tecnologia"
-    create: false
+    folder: "src/content/docs/05-tecnologia"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "financiero"
+    label: "💰 Financiero"
+    folder: "src/content/docs/06-financiero"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "eventos"
+    label: "🎪 Eventos"
+    folder: "src/content/docs/07-eventos"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "evento-valdivia"
+    label: "⭐ Valdivia (Principal)"
+    folder: "src/content/docs/07-eventos/valdivia"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "recursos"
+    label: "📚 Recursos"
+    folder: "src/content/docs/08-recursos"
+    create: true
     delete: false
     slug: "{{slug}}"
     extension: "md"
