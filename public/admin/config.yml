@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: tu-usuario/tu-repo # Reemplaza con tu usuario y repositorio de GitHub
+  branch: main
+
+# Media files stored in repo
+media_folder: "src/assets/images"
+public_folder: "/src/assets/images"
+
+# Collections define the content types
+collections:
+  - name: "docs"
+    label: "Documentación"
+    folder: "src/content/docs"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Orden", name: "order", widget: "number", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+    
+  - name: "guides"
+    label: "Guías"
+    folder: "src/content/docs/guides"
+    create: true
+    slug: "{{slug}}"
+    extension: "mdx"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "text", required: false}
+      - {label: "Sidebar", name: "sidebar", widget: "object", fields: [
+          {label: "Orden", name: "order", widget: "number", default: 0},
+          {label: "Etiqueta", name: "label", widget: "string", required: false}
+        ], required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+      
+  - name: "reference"
+    label: "Referencia"
+    folder: "src/content/docs/reference"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "text", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
