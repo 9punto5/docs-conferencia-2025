@@ -3,14 +3,15 @@ import { config, fields, collection } from '@keystatic/core';
 
 export default config({
   storage: {
-    kind: 'local',
+    kind: import.meta.env.MODE === 'production' ? 'github' : 'local',
+    repo: import.meta.env.MODE === 'production' ? '9punto5/docs-conferencia-2025' : undefined,
   },
   collections: {
     'planificacion-general': collection({
       label: '📊 Planificación General',
       slugField: 'title',
       path: 'src/content/docs/01-planificacion-general/**',
-      format: { contentField: 'content', dataLocation: 'index' },
+      format: { contentField: 'content' },
       schema: {
         title: fields.text({ label: 'Título' }),
         description: fields.text({ 
