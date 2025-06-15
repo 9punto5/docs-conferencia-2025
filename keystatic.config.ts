@@ -49,7 +49,7 @@ export default config({
     'roles-participantes': collection({
       label: '👥 Roles de Participantes',
       slugField: 'title',
-      path: 'src/content/docs/02-contenidos/roles-participantes/**',
+      path: 'src/content/docs/02-contenidos/roles-participantes/*',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -169,7 +169,7 @@ export default config({
     'eventos': collection({
       label: '🎪 Eventos',
       slugField: 'title',
-      path: 'src/content/docs/07-eventos/**',
+      path: 'src/content/docs/07-eventos/*',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
