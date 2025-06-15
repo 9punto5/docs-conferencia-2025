@@ -27,11 +27,11 @@ Responsable de la curaduría y calidad del contenido del evento.
 - **Facilitación**: Conexión de conversaciones y dinámicas grupales
 - **Actividades al aire libre**: Aprovechando el entorno de Valdivia
 
-[Ver planificación detallada →](/contenidos/overview)
+[Ver planificación detallada →](/areas/contenidos/overview)
 
 ---
 
-## Producción
+## Experiencia y producción
 Encargada de toda la logística y operación del evento.
 
 ### Responsabilidades
@@ -49,7 +49,7 @@ Encargada de toda la logística y operación del evento.
 - **Montaje**: Decoración y señalética
 - **Transporte**: Coordinación para speakers
 
-[Ver planificación detallada →](/produccion/overview)
+[Ver planificación detallada →](/areas/experiencia-produccion/overview)
 
 ---
 
@@ -70,7 +70,7 @@ Maneja la comunicación y promoción del evento.
 3. **Venta**: Campañas de entradas por etapas
 4. **Evento**: Cobertura en tiempo real
 
-[Ver planificación detallada →](/marketing/overview)
+[Ver planificación detallada →](/areas/marketing-diseno/overview)
 
 ---
 
@@ -91,25 +91,28 @@ Desarrolla y mantiene los sistemas digitales.
 - **Dashboard**: Métricas para organización
 - **Streaming**: Transmisión de charlas principales
 
-[Ver planificación detallada →](/tecnologia/overview)
+[Ver planificación detallada →](/areas/tecnologia/overview)
 
 ---
 
-## Sponsors
-Gestiona las relaciones comerciales y auspicios.
+## Finanzas
+Gestiona las relaciones comerciales, auspicios y presupuesto del evento.
 
 ### Responsabilidades
 - Venta de auspicios y gestión de sponsors
 - Desarrollo de beneficios y activaciones comerciales
 - Coordinación de presencia de marca en el evento
 - Gestión de contratos y cumplimiento de beneficios
+- Planificación y control presupuestario
 - Reportes y seguimiento post-evento
 
-### Paquetes de auspicio
-- **Patrocinador Principal**: Máxima visibilidad
-- **Sponsor de Área**: Asociación temática
-- **Partner de Actividad**: Experiencias específicas
-- **Supporters**: Apoyo básico
+### Áreas de trabajo
+- **Presupuesto**: Planificación financiera general
+- **Sponsors**: Patrocinios y auspicios
+- **Control de costos**: Seguimiento de gastos
+- **Reportes financieros**: Análisis y métricas
+
+[Ver planificación detallada →](/areas/finanzas/overview)
 
 ---
 
@@ -117,4 +120,4 @@ Gestiona las relaciones comerciales y auspicios.
 
 **Para seguimiento operativo**: [Dashboard Ejecutivo](/planificacion/dashboard)  
 **Para planificación temporal**: [Roadmap General](/planificacion/roadmap)  
-**Para información del evento**: [Agenda Valdivia](/eventos/valdivia/agenda)
+**Para información del evento**: [Agenda Valdivia](/eventos/valdivia/overview)

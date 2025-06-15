@@ -29,12 +29,18 @@ export default defineConfig({
 						{ label: 'Overview', link: '/planificacion/overview' },
 						{ label: 'Dashboard', link: '/planificacion/dashboard' },
 						{ label: 'Roadmap', link: '/planificacion/roadmap' },
-						{ label: 'Junio', link: '/planificacion/junio' },
-						{ label: 'Julio', link: '/planificacion/julio' },
-						{ label: 'Agosto', link: '/planificacion/agosto' },
-						{ label: 'Septiembre', link: '/planificacion/septiembre' },
-						{ label: 'Octubre', link: '/planificacion/octubre' },
-						{ label: 'Noviembre', link: '/planificacion/noviembre' },
+						{
+							label: 'Roadmap detallado',
+							items: [
+								{ label: 'Overview', link: '/planificacion/roadmap-detallado/overview' },
+								{ label: 'Junio', link: '/planificacion/roadmap-detallado/junio' },
+								{ label: 'Julio', link: '/planificacion/roadmap-detallado/julio' },
+								{ label: 'Agosto', link: '/planificacion/roadmap-detallado/agosto' },
+								{ label: 'Septiembre', link: '/planificacion/roadmap-detallado/septiembre' },
+								{ label: 'Octubre', link: '/planificacion/roadmap-detallado/octubre' },
+								{ label: 'Noviembre', link: '/planificacion/roadmap-detallado/noviembre' },
+							],
+						},
 					],
 				},
 				{
@@ -83,6 +89,7 @@ export default defineConfig({
 						{
 							label: 'Finanzas',
 							items: [
+								{ label: 'Overview', link: '/areas/finanzas/overview' },
 								{ label: 'Presupuesto', link: '/areas/finanzas/presupuesto' },
 								{ label: 'Sponsors', link: '/areas/finanzas/sponsors' },
 							],

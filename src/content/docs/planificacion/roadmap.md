@@ -70,12 +70,12 @@ description: Vista ejecutiva del timeline de la conferencia 2025
 
 Para información operativa detallada, consultar los roadmaps mensuales:
 
-- [Junio](/roadmap/junio) - Selección y setup inicial
-- [Julio](/roadmap/julio) - Confirmaciones y estrategia
-- [Agosto](/roadmap/agosto) - Preparación y segunda etapa
-- [Septiembre](/roadmap/septiembre) - Programa y team building
-- [Octubre](/roadmap/octubre) - Preparación final y testing
-- [noviembre](/roadmap/noviembre) - Ejecución del evento
+- [Junio](/planificacion/roadmap-detallado/junio) - Selección y setup inicial
+- [Julio](/planificacion/roadmap-detallado/julio) - Confirmaciones y estrategia
+- [Agosto](/planificacion/roadmap-detallado/agosto) - Preparación y segunda etapa
+- [Septiembre](/planificacion/roadmap-detallado/septiembre) - Programa y team building
+- [Octubre](/planificacion/roadmap-detallado/octubre) - Preparación final y testing
+- [noviembre](/planificacion/roadmap-detallado/noviembre) - Ejecución del evento
 
 ## Gestión de riesgos
 
