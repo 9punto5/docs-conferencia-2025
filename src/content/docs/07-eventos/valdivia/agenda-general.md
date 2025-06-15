@@ -32,54 +32,34 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 **Enfoque**: Apertura e inmersión
 
 #### **Mañana**
-- **9:00-10:00**: Acreditación y bienvenida
-- **10:00-10:30**: Ceremonia de apertura
-- **10:30-12:00**: Charlas inaugurales (2-3 charlas)
-- **12:00-13:30**: Almuerzo y networking
+(pendiente)
 
 #### **Tarde**
-- **13:30-15:00**: Talleres paralelos (Ronda 1)
-- **15:00-15:30**: Break
-- **15:30-17:00**: Mesas redondas temáticas
-- **17:00-18:00**: Actividad de networking
-- **19:00+**: Cena y actividad social
+(pendiente)
 
 ### **Día 2 - Viernes 7 de Noviembre**
-**Enfoque**: Contenido profundo y práctica
+**Enfoque**: (pendiente)
 
 #### **Mañana**
-- **9:00-10:30**: Charlas principales (2 charlas)
-- **10:30-11:00**: Break
-- **11:00-12:30**: Talleres paralelos (Ronda 2)
-- **12:30-14:00**: Almuerzo y conversaciones
+(pendiente)
 
 #### **Tarde**
-- **14:00-15:30**: Unconference / Open Space
-- **15:30-16:00**: Break
-- **16:00-17:30**: Speed mentoring
-- **17:30-18:30**: Síntesis y reflexiones
-- **19:00+**: Actividad al aire libre
+(pendiente)
 
 ### **Día 3 - Sábado 8 de Noviembre**
-**Enfoque**: Síntesis y proyección
+**Enfoque**: (pendiente)
 
 #### **Mañana**
-- **9:00-10:30**: Charlas de cierre (2 charlas)
-- **10:30-11:00**: Break
-- **11:00-12:30**: Talleres de síntesis
-- **12:30-13:30**: Almuerzo
+(pendiente)
 
 #### **Tarde**
-- **13:30-15:00**: Planificación de seguimiento
-- **15:00-15:30**: Break
-- **15:30-16:30**: Ceremonia de cierre
-- **16:30-17:30**: Despedida y networking final
+(pendiente)
 
 ## 🏢 Espacios y Logística
 
 ### **Venue Principal**
-- Auditorio para charlas principales (150-200 personas)
-- Salas paralelas para talleres (30-40 personas c/u)
+- Auditorio para charlas principales (200-250 personas)
+- Salas paralelas para talleres (10-30 personas c/u)
 - Espacios de networking y breaks
 - Área de catering y descanso
 

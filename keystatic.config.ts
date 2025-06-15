@@ -2,18 +2,25 @@
 import { config, fields, collection } from '@keystatic/core';
 
 export default config({
-  storage: {
-    kind: import.meta.env.MODE === 'production' ? 'github' : 'local',
-    repo: import.meta.env.MODE === 'production' ? '9punto5/docs-conferencia-2025' : undefined,
-  },
+  storage: import.meta.env.MODE === 'production' 
+    ? {
+        kind: 'github',
+        repo: {
+          owner: '9punto5',
+          name: 'docs-conferencia-2025',
+        },
+      }
+    : {
+        kind: 'local',
+      },
   collections: {
-    'planificacion-general': collection({
-      label: '📊 Planificación General',
+    'roadmap': collection({
+      label: 'Roadmap',
       slugField: 'title',
-      path: 'src/content/docs/01-planificacion-general/**',
+      path: 'src/content/docs/roadmap/*',
       format: { contentField: 'content' },
       schema: {
-        title: fields.text({ label: 'Título' }),
+        title: fields.slug({ name: { label: 'Título' } }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
@@ -24,13 +31,13 @@ export default config({
         }),
       },
     }),
-    'contenidos': collection({
-      label: '📝 Contenidos',
+    'marketing-diseno': collection({
+      label: 'Marketing y diseño',
       slugField: 'title',
-      path: 'src/content/docs/02-contenidos/**',
-      format: { contentField: 'content', dataLocation: 'index' },
+      path: 'src/content/docs/marketing-diseno/**',
+      format: { contentField: 'content' },
       schema: {
-        title: fields.text({ label: 'Título' }),
+        title: fields.slug({ name: { label: 'Título' } }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
@@ -41,13 +48,13 @@ export default config({
         }),
       },
     }),
-    'produccion': collection({
-      label: '🎬 Producción',
+    'contenidos-conferencia': collection({
+      label: 'Contenidos de la conferencia',
       slugField: 'title',
-      path: 'src/content/docs/03-produccion/**',
-      format: { contentField: 'content', dataLocation: 'index' },
+      path: 'src/content/docs/contenidos-conferencia/**',
+      format: { contentField: 'content' },
       schema: {
-        title: fields.text({ label: 'Título' }),
+        title: fields.slug({ name: { label: 'Título' } }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
@@ -58,13 +65,13 @@ export default config({
         }),
       },
     }),
-    'marketing': collection({
-      label: '📢 Marketing',
+    'experiencia-produccion': collection({
+      label: 'Experiencia y producción',
       slugField: 'title',
-      path: 'src/content/docs/04-marketing/**',
-      format: { contentField: 'content', dataLocation: 'index' },
+      path: 'src/content/docs/experiencia-produccion/**',
+      format: { contentField: 'content' },
       schema: {
-        title: fields.text({ label: 'Título' }),
+        title: fields.slug({ name: { label: 'Título' } }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
@@ -75,13 +82,13 @@ export default config({
         }),
       },
     }),
-    'tecnologia': collection({
-      label: '💻 Tecnología',
+    'tecnologia-ux': collection({
+      label: 'Tecnología y UX',
       slugField: 'title',
-      path: 'src/content/docs/05-tecnologia/**',
-      format: { contentField: 'content', dataLocation: 'index' },
+      path: 'src/content/docs/tecnologia-ux/**',
+      format: { contentField: 'content' },
       schema: {
-        title: fields.text({ label: 'Título' }),
+        title: fields.slug({ name: { label: 'Título' } }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
@@ -92,13 +99,13 @@ export default config({
         }),
       },
     }),
-    'eventos': collection({
-      label: '🎪 Eventos',
+    'finanzas': collection({
+      label: 'Finanzas',
       slugField: 'title',
-      path: 'src/content/docs/07-eventos/**',
-      format: { contentField: 'content', dataLocation: 'index' },
+      path: 'src/content/docs/finanzas/**',
+      format: { contentField: 'content' },
       schema: {
-        title: fields.text({ label: 'Título' }),
+        title: fields.slug({ name: { label: 'Título' } }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
