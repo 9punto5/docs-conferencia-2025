@@ -109,4 +109,4 @@ Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los part
 - [Consejos para Postulación](https://9punto5.cl/blog/speakers-talleres-2025/)
 - [Código de Conducta](/recursos/guias/code-of-conduct/)
 - [Proceso de Selección](/areas/contenidos/seleccion/)
-- [Logística de Talleres](/areas/produccion/logistica/)
+- [Logística de Talleres](/areas/experiencia-produccion/logistica/)

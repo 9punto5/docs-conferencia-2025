@@ -48,10 +48,10 @@ export default config({
         }),
       },
     }),
-    'areas-produccion': collection({
+    'areas-experiencia-produccion': collection({
       label: 'Áreas - Experiencia y producción',
       slugField: 'title',
-      path: 'src/content/docs/areas/produccion/**',
+      path: 'src/content/docs/areas/experiencia-produccion/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -65,10 +65,10 @@ export default config({
         }),
       },
     }),
-    'areas-marketing': collection({
-      label: 'Áreas - Marketing',
+    'areas-marketing-diseno': collection({
+      label: 'Áreas - Marketing y diseño',
       slugField: 'title',
-      path: 'src/content/docs/areas/marketing/**',
+      path: 'src/content/docs/areas/marketing-diseno/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -99,10 +99,10 @@ export default config({
         }),
       },
     }),
-    'areas-financiero': collection({
-      label: 'Áreas - Financiero',
+    'areas-finanzas': collection({
+      label: 'Áreas - Finanzas',
       slugField: 'title',
-      path: 'src/content/docs/areas/financiero/**',
+      path: 'src/content/docs/areas/finanzas/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),

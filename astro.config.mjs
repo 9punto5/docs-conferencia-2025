@@ -58,12 +58,12 @@ export default defineConfig({
 						{
 							label: 'Experiencia y producción',
 							items: [
-								{ label: 'Overview', link: '/areas/produccion/overview' },
+								{ label: 'Overview', link: '/areas/experiencia-produccion/overview' },
 								{
 									label: 'Equipo',
 									items: [
-										{ label: 'Facilitación', link: '/areas/produccion/equipo/facilitacion' },
-										{ label: 'Operación', link: '/areas/produccion/equipo/operacion' },
+										{ label: 'Facilitación', link: '/areas/experiencia-produccion/roles/facilitacion' },
+										{ label: 'Operación', link: '/areas/experiencia-produccion/roles/operacion' },
 									],
 								},
 							],
@@ -71,7 +71,7 @@ export default defineConfig({
 						{
 							label: 'Marketing y diseño',
 							items: [
-								{ label: 'Overview', link: '/areas/marketing/overview' },
+								{ label: 'Overview', link: '/areas/marketing-diseno/overview' },
 							],
 						},
 						{
@@ -81,10 +81,10 @@ export default defineConfig({
 							],
 						},
 						{
-							label: 'Financiero',
+							label: 'Finanzas',
 							items: [
-								{ label: 'Presupuesto', link: '/areas/financiero/presupuesto' },
-								{ label: 'Sponsors', link: '/areas/financiero/sponsors' },
+								{ label: 'Presupuesto', link: '/areas/finanzas/presupuesto' },
+								{ label: 'Sponsors', link: '/areas/finanzas/sponsors' },
 							],
 						},
 					],

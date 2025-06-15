@@ -146,7 +146,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 
 ## Recursos
 
-- [Código de Conducta](/08-recursos/guias/code-of-conduct/)
-- [Equipo de Producción](/03-produccion/equipo/)
-- [Logística General](/03-produccion/logistica/)
-- [Cronograma de Eventos](/07-eventos/)
+- [Código de Conducta](/recursos/guias/code-of-conduct/)
+- [Equipo de Producción](/areas/experiencia-produccion/roles/)
+- [Logística General](/areas/experiencia-produccion/logistica/)
+- [Cronograma de Eventos](/eventos/)

@@ -37,7 +37,7 @@ description: Planificación de marketing y diseño para la conferencia 2025
 - Difusión evento preparación Santiago 2
 - Difusión Paillaco
 
-## noviembre
+## Noviembre
 - Onboarding
 - Vinculación espacio digital con presencial
 - Cobertura del evento

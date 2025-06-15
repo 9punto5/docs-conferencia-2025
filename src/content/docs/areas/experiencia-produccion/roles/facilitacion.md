@@ -116,7 +116,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 
 ## Recursos
 
-- [Proceso de Selección](/02-contenidos/seleccion/)
-- [Código de Conducta](/08-recursos/guias/code-of-conduct/)
-- [Coordinación de Equipo](/03-produccion/equipo/)
-- [Programa de Actividades](/02-contenidos/programa/)
+- [Proceso de Selección](/areas/contenidos/seleccion/)
+- [Código de Conducta](/recursos/guias/code-of-conduct/)
+- [Coordinación de Equipo](/areas/experiencia-produccion/roles/)
+- [Programa de Actividades](/areas/contenidos/programa)

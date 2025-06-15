@@ -105,4 +105,4 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - [Planificación General](/planificacion/overview)
 - [Roadmap Completo](/planificacion/roadmap)
 - [Estado Contenidos](/areas/contenidos/overview)
-- [Estado Producción](/areas/produccion/overview)
+- [Estado Producción](/areas/experiencia-produccion/overview)
