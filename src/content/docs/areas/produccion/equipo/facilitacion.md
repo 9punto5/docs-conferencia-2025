@@ -73,7 +73,6 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 
 ### **Desarrollo de Metodologías**
 - Adaptación de técnicas al contexto
-- Preparación de dinámicas de emergencia
 - Coordinación con equipo de contenidos
 
 ### **Ensayos y Coordinación (Octubre)**

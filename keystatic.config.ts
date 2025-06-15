@@ -14,10 +14,10 @@ export default config({
         kind: 'local',
       },
   collections: {
-    'roadmap': collection({
-      label: 'Roadmap',
+    'planificacion': collection({
+      label: 'Planificación',
       slugField: 'title',
-      path: 'src/content/docs/roadmap/*',
+      path: 'src/content/docs/planificacion/*',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -31,10 +31,10 @@ export default config({
         }),
       },
     }),
-    'marketing-diseno': collection({
-      label: 'Marketing y diseño',
+    'areas-contenidos': collection({
+      label: 'Áreas - Contenidos',
       slugField: 'title',
-      path: 'src/content/docs/marketing-diseno/**',
+      path: 'src/content/docs/areas/contenidos/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -48,10 +48,10 @@ export default config({
         }),
       },
     }),
-    'contenidos-conferencia': collection({
-      label: 'Contenidos de la conferencia',
+    'areas-produccion': collection({
+      label: 'Áreas - Experiencia y producción',
       slugField: 'title',
-      path: 'src/content/docs/contenidos-conferencia/**',
+      path: 'src/content/docs/areas/produccion/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -65,10 +65,10 @@ export default config({
         }),
       },
     }),
-    'experiencia-produccion': collection({
-      label: 'Experiencia y producción',
+    'areas-marketing': collection({
+      label: 'Áreas - Marketing',
       slugField: 'title',
-      path: 'src/content/docs/experiencia-produccion/**',
+      path: 'src/content/docs/areas/marketing/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -82,10 +82,10 @@ export default config({
         }),
       },
     }),
-    'tecnologia-ux': collection({
-      label: 'Tecnología y UX',
+    'areas-tecnologia': collection({
+      label: 'Áreas - Tecnología',
       slugField: 'title',
-      path: 'src/content/docs/tecnologia-ux/**',
+      path: 'src/content/docs/areas/tecnologia/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
@@ -99,10 +99,44 @@ export default config({
         }),
       },
     }),
-    'finanzas': collection({
-      label: 'Finanzas',
+    'areas-financiero': collection({
+      label: 'Áreas - Financiero',
       slugField: 'title',
-      path: 'src/content/docs/finanzas/**',
+      path: 'src/content/docs/areas/financiero/**',
+      format: { contentField: 'content' },
+      schema: {
+        title: fields.slug({ name: { label: 'Título' } }),
+        description: fields.text({ 
+          label: 'Descripción',
+          multiline: true,
+        }),
+        content: fields.markdoc({
+          label: 'Contenido',
+          extension: 'md'
+        }),
+      },
+    }),
+    'eventos': collection({
+      label: 'Eventos',
+      slugField: 'title',
+      path: 'src/content/docs/eventos/**',
+      format: { contentField: 'content' },
+      schema: {
+        title: fields.slug({ name: { label: 'Título' } }),
+        description: fields.text({ 
+          label: 'Descripción',
+          multiline: true,
+        }),
+        content: fields.markdoc({
+          label: 'Contenido',
+          extension: 'md'
+        }),
+      },
+    }),
+    'recursos': collection({
+      label: 'Recursos',
+      slugField: 'title',
+      path: 'src/content/docs/recursos/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),

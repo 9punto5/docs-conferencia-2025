@@ -24,55 +24,67 @@ export default defineConfig({
 					link: '/',
 				},
 				{
-					label: 'Planificación General',
+					label: 'Planificación',
 					items: [
 						{ label: 'Overview', link: '/planificacion/overview' },
 						{ label: 'Dashboard', link: '/planificacion/dashboard' },
 						{ label: 'Roadmap', link: '/planificacion/roadmap' },
+						{ label: 'Junio', link: '/planificacion/junio' },
+						{ label: 'Julio', link: '/planificacion/julio' },
+						{ label: 'Agosto', link: '/planificacion/agosto' },
+						{ label: 'Septiembre', link: '/planificacion/septiembre' },
+						{ label: 'Octubre', link: '/planificacion/octubre' },
+						{ label: 'Noviembre', link: '/planificacion/noviembre' },
 					],
 				},
 				{
-					label: 'Roadmap',
+					label: 'Áreas',
 					items: [
-						{ label: 'Junio', link: '/roadmap/junio' },
-						{ label: 'Julio', link: '/roadmap/julio' },
-						{ label: 'Agosto', link: '/roadmap/agosto' },
-						{ label: 'Septiembre', link: '/roadmap/septiembre' },
-						{ label: 'Octubre', link: '/roadmap/octubre' },
-						{ label: 'Noviembre', link: '/roadmap/noviembre' },
-					],
-				},
-				{
-					label: 'Contenidos de la Conferencia',
-					items: [
-						{ label: 'Overview', link: '/contenidos/overview' },
 						{
-							label: 'Roles de Participantes',
+							label: 'Contenidos',
 							items: [
-								{ label: 'Facilitadores', link: '/contenidos/roles/facilitadores' },
-								{ label: 'Speakers', link: '/contenidos/roles/speakers' },
-								{ label: 'Voluntarios', link: '/contenidos/roles/voluntarios' },
-								{ label: 'Workshops', link: '/contenidos/roles/workshops' },
+								{ label: 'Overview', link: '/areas/contenidos/overview' },
+								{
+									label: 'Roles de Participantes',
+									items: [
+										{ label: 'Speakers', link: '/areas/contenidos/roles/speakers' },
+										{ label: 'Workshops', link: '/areas/contenidos/roles/workshops' },
+									],
+								},
 							],
 						},
-					],
-				},
-				{
-					label: 'Producción',
-					items: [
-						{ label: 'Overview', link: '/produccion/overview' },
-					],
-				},
-				{
-					label: 'Marketing y Diseño',
-					items: [
-						{ label: 'Overview', link: '/marketing/overview' },
-					],
-				},
-				{
-					label: 'Tecnología y UX',
-					items: [
-						{ label: 'Overview', link: '/tecnologia/overview' },
+						{
+							label: 'Experiencia y producción',
+							items: [
+								{ label: 'Overview', link: '/areas/produccion/overview' },
+								{
+									label: 'Equipo',
+									items: [
+										{ label: 'Facilitación', link: '/areas/produccion/equipo/facilitacion' },
+										{ label: 'Operación', link: '/areas/produccion/equipo/operacion' },
+									],
+								},
+							],
+						},
+						{
+							label: 'Marketing',
+							items: [
+								{ label: 'Overview', link: '/areas/marketing/overview' },
+							],
+						},
+						{
+							label: 'Tecnología',
+							items: [
+								{ label: 'Overview', link: '/areas/tecnologia/overview' },
+							],
+						},
+						{
+							label: 'Financiero',
+							items: [
+								{ label: 'Presupuesto', link: '/areas/financiero/presupuesto' },
+								{ label: 'Sponsors', link: '/areas/financiero/sponsors' },
+							],
+						},
 					],
 				},
 				{
@@ -84,6 +96,14 @@ export default defineConfig({
 								{ label: 'Agenda', link: '/eventos/valdivia/agenda' },
 							],
 						},
+					],
+				},
+				{
+					label: 'Recursos',
+					items: [
+						{ label: 'Guías', link: '/recursos/guias' },
+						{ label: 'Operativo', link: '/recursos/operativo' },
+						{ label: 'Templates', link: '/recursos/templates' },
 					],
 				},
 			],
