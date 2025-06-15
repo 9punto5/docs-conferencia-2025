@@ -1,6 +1,6 @@
 ---
 title: Dashboard Ejecutivo
-description: Vista general del estado de la conferencia 2025
+description: Vista general del estado de la conferencia 2025.
 ---
 
 # Dashboard Ejecutivo - Conferencia 2025
