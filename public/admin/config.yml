@@ -88,9 +88,9 @@ collections:
       - {label: "Descripción", name: "description", widget: "string", required: false}
       - {label: "Contenido", name: "body", widget: "markdown"}
 
-  - name: "financiero"
-    label: "💰 Financiero"
-    folder: "src/content/docs/06-financiero"
+  - name: "sponsor"
+    label: "💰 Sponsor"
+    folder: "src/content/docs/06-sponsor"
     create: true
     delete: false
     slug: "{{slug}}"
