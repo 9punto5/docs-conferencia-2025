@@ -4,7 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://tu-dominio.pages.dev', // Reemplaza con tu dominio de Cloudflare Pages
+	site: 'https://docs.9punto5.cl', // También funciona en Netlify gratis
 	integrations: [
 		starlight({
 			title: 'Conferencia 2025',

@@ -1,7 +1,9 @@
 backend:
-  name: github
-  repo: 9punto5/docs-conferencia-2025
+  name: git-gateway
   branch: main
+
+# Using Netlify Identity + Git Gateway
+# Free for up to 1000 users
 
 # Media files stored in repo
 media_folder: "src/assets/images"
@@ -88,8 +90,21 @@ collections:
       - {label: "Contenido", name: "body", widget: "markdown"}
 
   - name: "sponsor"
-    label: "💰 Sponsor"
+    label: "🤝 Sponsor"
     folder: "src/content/docs/06-sponsor"
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Descripción", name: "description", widget: "string", required: false}
+      - {label: "Contenido", name: "body", widget: "markdown"}
+
+  - name: "financiero"
+    label: "💰 Financiero"
+    folder: "src/content/docs/06-financiero"
     create: true
     delete: false
     slug: "{{slug}}"
