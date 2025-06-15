@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.4",
+    "@keystatic/astro": "^5.0.6",
+    "@keystatic/core": "^0.5.47",
     "astro": "^5.6.1",
     "decap-cms-app": "^3.6.4",
     "sharp": "^0.32.5"

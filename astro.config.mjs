@@ -1,11 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import keystatic from '@keystatic/astro';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://docs.9punto5.cl', // También funciona en Netlify gratis
 	integrations: [
+		keystatic(),
 		starlight({
 			title: 'Conferencia 2025',
 			social: [
