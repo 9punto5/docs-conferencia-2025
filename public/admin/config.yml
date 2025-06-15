@@ -1,8 +1,7 @@
-local_backend: true
-
-# Local development - no GitHub connection needed
 backend:
-  name: test-repo
+  name: github
+  repo: 9punto5/docs-conferencia-2025
+  branch: main
 
 # Media files stored in repo
 media_folder: "src/assets/images"
