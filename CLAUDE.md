@@ -25,6 +25,17 @@ Este archivo contiene convenciones específicas para mantener consistencia en la
 ## Proceso de check-in
 ## Dinámicas de team building
 ## Evento de warm-up
+## Enlaces importantes
+```
+
+**❌ Incorrecto:**
+```markdown
+## **Enlaces Importantes**  ← No usar negrita en títulos
+```
+
+**✅ Correcto:**
+```markdown
+## Enlaces importantes  ← Solo capitalizar primera palabra
 ```
 
 ### Nombres de Lugares y Eventos

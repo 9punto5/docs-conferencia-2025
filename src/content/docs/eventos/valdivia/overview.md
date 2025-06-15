@@ -10,36 +10,36 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 
 ## Objetivos del Evento
 
-### **Experiencia Integral**
+### Experiencia Integral
 - Combinar charlas inspiradoras con talleres prácticos
 - Facilitar conexiones genuinas entre participantes
 - Ofrecer múltiples formatos de interacción
 
-### **Contenido de Calidad**
+### Contenido de Calidad
 - 10-15 charlas seleccionadas cuidadosamente
 - Talleres hands-on con aplicación inmediata
 - Conversaciones facilitadas y networking estructurado
 
-### **Comunidad y Conexión**
+### Comunidad y Conexión
 - Fortalecer la comunidad 9punto5
 - Crear vínculos profesionales duraderos
 - Celebrar logros y aprendizajes
 
 ## Espacios y Logística
 
-### **Venue Principal**
+### Venue Principal
 - Auditorio para charlas principales (200-250 personas)
 - Salas paralelas para talleres (10-30 personas c/u)
 - Espacios de networking y breaks
 - Área de catering y descanso
 
-### **Tecnología**
+### Tecnología
 - Streaming en vivo de charlas principales
 - Sistemas de audio profesional
 - Proyección y conectividad
 - Plataforma digital para participantes
 
-### **Servicios**
+### Servicios
 - Catering completo (desayunos, almuerzos, breaks)
 - Transporte coordinado (aeropuerto-hotel-venue)
 - Kit de participante con materiales
@@ -47,12 +47,12 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 
 ## Participantes
 
-### **Capacidad Total**
+### Capacidad Total
 - 150-200 participantes presenciales
 - Audiencia online para charlas principales
 - Mix de profesionales locales e internacionales
 
-### **Perfil de Asistentes**
+### Perfil de Asistentes
 - Profesionales de tecnología y negocios
 - Emprendedores y líderes de equipos
 - Estudiantes y académicos
@@ -60,29 +60,29 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 
 ## Formatos de Contenido
 
-### **Charlas (20-30 min)**
+### Charlas (20-30 min)
 - Experiencias y casos reales
 - Lecciones aprendidas
 - Perspectivas diversas
 
-### **Talleres (60-90 min)**
+### Talleres (60-90 min)
 - Sesiones hands-on
 - Herramientas aplicables
 - Trabajo en grupos pequeños
 
-### **Conversaciones Facilitadas**
+### Conversaciones Facilitadas
 - Mesas redondas temáticas
 - Unconference autoorganizada
 - Speed mentoring estructurado
 
 ## Coordinación
 
-### **Preparación desde Paillaco**
+### Preparación desde Paillaco
 - El evento en Paillaco (5 nov) sirve como warm-up
 - Team building y alineación final
 - Últimos ajustes logísticos
 
-### **Integración con Santiago**
+### Integración con Santiago
 - Participantes de eventos preparatorios
 - Continuidad de conversaciones iniciadas
 - Comunidad integrada

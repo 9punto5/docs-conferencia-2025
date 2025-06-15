@@ -99,6 +99,7 @@ export default defineConfig({
 				{
 					label: 'Eventos',
 					items: [
+						{ label: 'Overview', link: '/eventos/overview' },
 						{
 							label: 'Valdivia',
 							items: [
@@ -113,6 +114,8 @@ export default defineConfig({
 								},
 							],
 						},
+						{ label: 'Paillaco', link: '/eventos/paillaco/overview' },
+						{ label: 'Santiago', link: '/eventos/santiago-prep/overview' },
 					],
 				},
 				{

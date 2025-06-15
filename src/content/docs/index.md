@@ -11,8 +11,8 @@ hero:
       link: /planificacion/overview
       icon: right-arrow
       variant: primary
-    - text: Eventos Valdivia
-      link: /eventos/valdivia/overview
+    - text: Conferencia Valdivia y eventos
+      link: /eventos/overview
       icon: external
 ---
 
