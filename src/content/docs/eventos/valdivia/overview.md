@@ -2,8 +2,6 @@
 title: Conferencia Valdivia - Overview
 description: Información general de la conferencia principal en Valdivia (6-8 noviembre)
 ---
-
-
 ## La experiencia 9punto5 2025
 
 Del 6 al 8 de noviembre, Valdivia se convierte en el epicentro de "Revolución IA: de lo inevitable a lo posible". Tres días donde 200-250 personas navegan juntas la complejidad de la IA, sin gurús que prometen revoluciones instantáneas ni apocalípticos que aseguran que estamos condenados.
@@ -12,7 +10,7 @@ Un espacio para contrastar ideas con realidad, reformular conceptos cuando choca
 
 ## ¿Para quién es esta conferencia?
 
-Esta experiencia está pensada para:
+Esta experiencia es para ti:
 
 - **Si recién empiezas con IA** y quieres dominar herramientas sin programar
 - **Si ya usas IA en tu trabajo** y buscas eficientar tu rol específico (diseño, marketing, análisis, etc.)
@@ -25,7 +23,7 @@ Esta experiencia está pensada para:
 
 Recibes lenguaje y conceptos para organizar el ruido. Historias reales que te ayudan a entender tu propia situación - no verdades absolutas, sino herramientas para pensar tu contexto específico.
 
-### **Día 2 - Contraste**: Cuando las ideas chocan con tu realidad  
+### **Día 2 - Contraste**: Cuando las ideas chocan con tu realidad
 
 El día donde tus conceptos se enfrentan a experiencias diversas. Conversaciones que revelan dónde tu entendimiento actual no encaja, y debates que reformulan tu perspectiva.
 
@@ -70,7 +68,7 @@ La conferencia se integra con el warm-up en Paillaco (5 nov) y los eventos prepa
 ## Contactos Clave
 
 - **Coordinación General**: [Por definir]
-- **Producción Local**: [Por definir]  
+- **Producción Local**: [Por definir]
 - **Soporte Técnico**: [Por definir]
 - **Emergencias**: [Por definir]
 
