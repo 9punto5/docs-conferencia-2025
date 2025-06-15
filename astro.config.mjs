@@ -27,18 +27,23 @@ export default defineConfig({
 					label: '📊 Planificación General',
 					items: [
 						{ label: 'Dashboard', link: '/01-planificacion-general/dashboard/' },
-						{ label: 'Roadmap General', link: '/01-planificacion-general/roadmap/general/' },
 						{ label: 'Visión de Áreas', link: '/01-planificacion-general/overview/' },
+						{ label: 'Roadmap General', link: '/01-planificacion-general/roadmap/general/' },
 					],
 				},
 				{
 					label: '📝 Contenidos',
 					items: [
 						{ label: 'Planificación', link: '/02-contenidos/planificacion/' },
-						{ label: 'Speakers', link: '/02-contenidos/roles-participantes/speakers/' },
-						{ label: 'Workshops', link: '/02-contenidos/roles-participantes/workshops/' },
-						{ label: 'Facilitación', link: '/02-contenidos/roles-participantes/facilitacion/' },
-						{ label: 'Voluntarios', link: '/02-contenidos/roles-participantes/voluntarios/' },
+						{
+							label: '👥 Roles de Participantes',
+							items: [
+								{ label: 'Facilitación', link: '/02-contenidos/roles-participantes/facilitacion/' },
+								{ label: 'Speakers', link: '/02-contenidos/roles-participantes/speakers/' },
+								{ label: 'Voluntarios', link: '/02-contenidos/roles-participantes/voluntarios/' },
+								{ label: 'Workshops', link: '/02-contenidos/roles-participantes/workshops/' },
+							],
+						},
 					],
 				},
 				{
@@ -62,9 +67,7 @@ export default defineConfig({
 				{
 					label: '🎪 Eventos',
 					items: [
-						{ label: '⭐ Valdivia (Principal)', link: '/07-eventos/valdivia/agenda-general/' },
-						{ label: 'Paillaco', link: '/07-eventos/paillaco/' },
-						{ label: 'Santiago Prep', link: '/07-eventos/santiago-prep/' },
+						{ label: 'Valdivia - Agenda General', link: '/07-eventos/valdivia/agenda-general/' },
 					],
 				},
 			],
