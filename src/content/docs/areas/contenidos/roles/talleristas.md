@@ -1,5 +1,5 @@
 ---
-title: Workshops - Dictar un taller
+title: Talleristas - Dictar un taller
 description: Información para quienes quieren dictar un taller práctico
 ---
 
@@ -8,7 +8,7 @@ description: Información para quienes quieren dictar un taller práctico
 
 Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los participantes salgan con herramientas concretas aplicables.
 
-## Lo que Buscamos
+## Lo que buscamos
 
 ### **Dinámicas participativas**
 - Ejercicios hands-on
@@ -25,20 +25,20 @@ Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los part
 - Templates, frameworks o herramientas
 - Conocimiento aplicable desde el día siguiente
 
-## Formato de Talleres
+## Formato de talleres
 
 ### **Duración**
 - 60-90 minutos por sesión
 - Formato intensivo y práctico
 - Grupos de 15-25 personas máximo
 
-### **Estructura Recomendada**
+### **Estructura recomendada**
 1. **Introducción breve** (10 min) - Contexto y objetivos
 2. **Demostración** (15 min) - Mostrar la herramienta/método
 3. **Práctica guiada** (30-45 min) - Participantes aplican
 4. **Síntesis y Q&A** (15 min) - Dudas y próximos pasos
 
-## Criterios de Evaluación
+## Criterios de evaluación
 
 1. **Aplicabilidad inmediata** del contenido
 2. **Claridad metodológica** y estructura
@@ -46,7 +46,7 @@ Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los part
 4. **Originalidad** de la propuesta
 5. **Capacidad de facilitación** en grupos
 
-## Proceso de Selección
+## Proceso de selección
 
 ### **Postulación (Junio)**
 - Propuesta detallada del taller
@@ -82,7 +82,7 @@ Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los part
 
 ## Durante el Evento
 
-### **Valdivia (6-8 Noviembre)**
+### **Valdivia (6-8 noviembre)**
 - Talleres en espacios dedicados
 - Grupos reducidos para mejor interacción
 - Materiales y recursos disponibles
@@ -92,7 +92,7 @@ Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los part
 - Proyector y materiales básicos
 - Conectividad y acceso a herramientas digitales
 
-## Recursos Necesarios
+## Recursos necesarios
 
 ### **Del Facilitador**
 - Metodología clara y probada
@@ -104,9 +104,9 @@ Menos teoría, más manos a la obra. Buscamos sesiones prácticas donde los part
 - Tecnología básica (proyector, sonido)
 - Materiales de papelería si es necesario
 
-## Enlaces Útiles
+## Enlaces útiles
 
 - [Consejos para Postulación](https://9punto5.cl/blog/speakers-talleres-2025/)
-- [Código de Conducta](/08-recursos/guias/code-of-conduct/)
-- [Proceso de Selección](/02-contenidos/seleccion/)
-- [Logística de Talleres](/03-produccion/logistica/)
+- [Código de Conducta](/recursos/guias/code-of-conduct/)
+- [Proceso de Selección](/areas/contenidos/seleccion/)
+- [Logística de Talleres](/areas/produccion/logistica/)

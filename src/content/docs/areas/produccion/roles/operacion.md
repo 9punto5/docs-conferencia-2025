@@ -81,7 +81,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Práctica de procedimientos
 - Simulacros y ensayos
 
-### **Coordinación Final (Noviembre)**
+### **Coordinación Final (noviembre)**
 - Briefing final de roles y responsabilidades
 - Distribución de turnos y horarios
 - Contactos y canales de comunicación
@@ -93,12 +93,12 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Práctica y team building
 - Coordinación de equipos
 
-### **Paillaco (5 Noviembre)**
+### **Paillaco (5 noviembre)**
 - Montaje y preparación
 - Apoyo durante el evento
 - Evaluación y feedback
 
-### **Valdivia (6-8 Noviembre)**
+### **Valdivia (6-8 noviembre)**
 - **Día 0 (5 nov)**: Montaje final
 - **Días 1-3 (6-8 nov)**: Operación del evento
 - **Día 4**: Desmontaje y cierre

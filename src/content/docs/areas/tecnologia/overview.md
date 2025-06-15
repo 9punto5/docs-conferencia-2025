@@ -25,7 +25,7 @@ description: Planificación tecnológica para la conferencia 2025
 - Entradas transferibles
 - Pre acreditación en mi perfil
 
-## Noviembre
+## noviembre
 - **Testing de sistemas**
 - **Capacitación equipo** del sistema de acreditación
 - **Encuestas de satisfacción**

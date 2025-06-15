@@ -82,12 +82,12 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 
 ## Durante el Evento
 
-### **Valdivia (6-8 Noviembre)**
+### **Valdivia (6-8 noviembre)**
 - Facilitación de sesiones programadas
 - Apoyo en dinámicas espontáneas
 - Coordinación con equipo de producción
 
-### **Paillaco (5 Noviembre)**
+### **Paillaco (5 noviembre)**
 - Facilitación en formato más íntimo
 - Preparación para el evento principal
 - Dinámicas de team building

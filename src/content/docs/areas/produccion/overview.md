@@ -48,7 +48,7 @@ description: Planificación de producción para la conferencia 2025
 - Organización con productora
 - Preparación Paillaco
 
-## Noviembre
+## noviembre
 - **Pruebas de streaming**
 - **Logística Operativa Detallada**
 - **Catering**: menús específicos, cantidades, horarios de servicio

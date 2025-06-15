@@ -35,7 +35,7 @@ description: Planificación de contenidos para la conferencia 2025
 - **Agenda minuto a minuto del evento**
 - **Moderadores y maestros de ceremonia**
 
-## Noviembre
+## noviembre
 - **Ensayos y pruebas técnicas**
 - Ejecución del programa
 - Coordinación en tiempo real

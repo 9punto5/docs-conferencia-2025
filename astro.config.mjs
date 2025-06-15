@@ -44,11 +44,13 @@ export default defineConfig({
 							label: 'Contenidos',
 							items: [
 								{ label: 'Overview', link: '/areas/contenidos/overview' },
+								{ label: 'Programa', link: '/areas/contenidos/programa' },
 								{
-									label: 'Roles de Participantes',
+									label: 'Roles',
 									items: [
 										{ label: 'Speakers', link: '/areas/contenidos/roles/speakers' },
-										{ label: 'Workshops', link: '/areas/contenidos/roles/workshops' },
+										{ label: 'Talleristas', link: '/areas/contenidos/roles/talleristas' },
+										{ label: 'Panelistas', link: '/areas/contenidos/roles/panelistas' },
 									],
 								},
 							],
@@ -67,7 +69,7 @@ export default defineConfig({
 							],
 						},
 						{
-							label: 'Marketing',
+							label: 'Marketing y diseño',
 							items: [
 								{ label: 'Overview', link: '/areas/marketing/overview' },
 							],
@@ -93,7 +95,10 @@ export default defineConfig({
 						{
 							label: 'Valdivia',
 							items: [
-								{ label: 'Agenda', link: '/eventos/valdivia/agenda' },
+								{ label: 'Overview', link: '/eventos/valdivia/overview' },
+								{ label: 'Jueves 06', link: '/eventos/valdivia/jueves-06' },
+								{ label: 'Viernes 07', link: '/eventos/valdivia/viernes-07' },
+								{ label: 'Sábado 08', link: '/eventos/valdivia/sabado-08' },
 							],
 						},
 					],
@@ -101,9 +106,10 @@ export default defineConfig({
 				{
 					label: 'Recursos',
 					items: [
-						{ label: 'Guías', link: '/recursos/guias' },
-						{ label: 'Operativo', link: '/recursos/operativo' },
-						{ label: 'Templates', link: '/recursos/templates' },
+						{ label: 'Overview', link: '/recursos/overview' },
+						{ label: 'Guías', link: '/recursos/guias/overview' },
+						{ label: 'Operativo', link: '/recursos/operativo/overview' },
+						{ label: 'Templates', link: '/recursos/templates/overview' },
 					],
 				},
 			],

@@ -8,7 +8,7 @@ description: Información para quienes quieren dar una charla en la conferencia
 
 En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos historias honestas sobre lo que funciona y los aprendizajes.
 
-## Lo que Buscamos
+## Lo que buscamos
 
 ### **Experiencias honestas y aprendizajes**
 - Relatos auténticos de proyectos reales
@@ -69,7 +69,7 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 
 ## Durante el Evento
 
-### **Valdivia (6-8 Noviembre)**
+### **Valdivia (6-8 noviembre)**
 - Charlas principales en el evento central
 - Sesiones de Q&A
 - Networking con participantes
@@ -82,6 +82,6 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 ## Recursos
 
 - [Consejos para Postulación](https://9punto5.cl/blog/speakers-talleres-2025/)
-- [Código de Conducta](/08-recursos/guias/code-of-conduct/)
-- [Proceso de Selección](/02-contenidos/seleccion/)
-- [Programa General](/02-contenidos/programa/)
+- [Código de Conducta](/recursos/guias/code-of-conduct/)
+- [Proceso de Selección](/areas/contenidos/seleccion/)
+- [Programa General](/areas/contenidos/programa/)

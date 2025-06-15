@@ -29,7 +29,7 @@ description: Vista ejecutiva del timeline de la conferencia 2025
 - **Octubre**: Ensayos técnicos y agenda detallada
 - **Fin octubre**: Sistemas listos y kits preparados
 
-### Noviembre - Ejecución
+### noviembre - Ejecución
 - **5 noviembre**: Evento Paillaco
 - **6-8 noviembre**: Conferencia Valdivia (EVENTO PRINCIPAL)
 
@@ -75,7 +75,7 @@ Para información operativa detallada, consultar los roadmaps mensuales:
 - [Agosto](/roadmap/agosto) - Preparación y segunda etapa
 - [Septiembre](/roadmap/septiembre) - Programa y team building
 - [Octubre](/roadmap/octubre) - Preparación final y testing
-- [Noviembre](/roadmap/noviembre) - Ejecución del evento
+- [noviembre](/roadmap/noviembre) - Ejecución del evento
 
 ## Gestión de riesgos
 

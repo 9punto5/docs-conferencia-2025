@@ -1,10 +1,10 @@
 ---
-title: Conferencia Valdivia - Evento Principal
-description: Agenda general de la conferencia principal en Valdivia (6-8 noviembre)
+title: Conferencia Valdivia - Overview
+description: Información general de la conferencia principal en Valdivia (6-8 noviembre)
 ---
 
 
-## 6, 7 y 8 de Noviembre 2025
+## 6, 7 y 8 de noviembre 2025
 
 La conferencia principal se realizará en Valdivia durante tres días intensivos de aprendizaje, networking y experiencias memorables.
 
@@ -24,35 +24,6 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Fortalecer la comunidad 9punto5
 - Crear vínculos profesionales duraderos
 - Celebrar logros y aprendizajes
-
-## Estructura General
-
-### **Día 1 - Jueves 6 de Noviembre**
-**Enfoque**: Apertura e inmersión
-
-#### **Mañana**
-(pendiente)
-
-#### **Tarde**
-(pendiente)
-
-### **Día 2 - Viernes 7 de Noviembre**
-**Enfoque**: (pendiente)
-
-#### **Mañana**
-(pendiente)
-
-#### **Tarde**
-(pendiente)
-
-### **Día 3 - Sábado 8 de Noviembre**
-**Enfoque**: (pendiente)
-
-#### **Mañana**
-(pendiente)
-
-#### **Tarde**
-(pendiente)
 
 ## Espacios y Logística
 
@@ -104,18 +75,6 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Unconference autoorganizada
 - Speed mentoring estructurado
 
-## Seguimiento y Medición
-
-### **Durante el Evento**
-- Analytics en tiempo real
-- Feedback continuo de participantes
-- Monitoreo de engagement online
-
-### **Post-Evento**
-- Encuestas de satisfacción
-- Reporte de impacto
-- Seguimiento de conexiones generadas
-
 ## Coordinación
 
 ### **Preparación desde Paillaco**
@@ -128,6 +87,12 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Continuidad de conversaciones iniciadas
 - Comunidad integrada
 
+## Agendas Detalladas
+
+- [Jueves 06 de noviembre](/eventos/valdivia/jueves-06)
+- [Viernes 07 de noviembre](/eventos/valdivia/viernes-07)
+- [Sábado 08 de noviembre](/eventos/valdivia/sabado-08)
+
 ## Contactos Clave
 
 - **Coordinación General**: [Por definir]
@@ -139,5 +104,5 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 
 - [Planificación General](/planificacion/overview)
 - [Roadmap Completo](/planificacion/roadmap)
-- [Estado Contenidos](/contenidos/overview)
-- [Estado Producción](/produccion/overview)
+- [Estado Contenidos](/areas/contenidos/overview)
+- [Estado Producción](/areas/produccion/overview)
