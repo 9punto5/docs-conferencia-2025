@@ -28,7 +28,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 
 ## 📋 Estructura General
 
-### **Día 1 - Miércoles 6 de Noviembre**
+### **Día 1 - Jueves 6 de Noviembre**
 **Enfoque**: Apertura e inmersión
 
 #### **Mañana**
@@ -44,7 +44,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - **17:00-18:00**: Actividad de networking
 - **19:00+**: Cena y actividad social
 
-### **Día 2 - Jueves 7 de Noviembre**
+### **Día 2 - Viernes 7 de Noviembre**
 **Enfoque**: Contenido profundo y práctica
 
 #### **Mañana**
@@ -60,7 +60,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - **17:30-18:30**: Síntesis y reflexiones
 - **19:00+**: Actividad al aire libre
 
-### **Día 3 - Viernes 8 de Noviembre**
+### **Día 3 - Sábado 8 de Noviembre**
 **Enfoque**: Síntesis y proyección
 
 #### **Mañana**
