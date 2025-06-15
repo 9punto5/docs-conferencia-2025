@@ -3,13 +3,12 @@ title: Facilitación - Facilitar conversaciones
 description: Información para quienes quieren facilitar conversaciones y dinámicas
 ---
 
-# Facilitación - Facilitar conversaciones
 
-## 🤝 Descripción del Rol
+## Descripción del Rol
 
 Crea espacios donde la magia conversacional suceda. Buscamos personas que escuchan más de lo que hablan y navegan con gracia.
 
-## ✨ Lo que Buscamos
+## Lo que Buscamos
 
 ### **Conversaciones emergentes**
 - Capacidad de crear espacios de diálogo
@@ -26,7 +25,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 - Intuición para ajustar formatos en tiempo real
 - Capacidad de improvisar manteniendo el objetivo
 
-## 🎯 Tipos de Facilitación
+## Tipos de Facilitación
 
 ### **Mesas Redondas**
 - Moderación de conversaciones temáticas
@@ -48,7 +47,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 - Dinámicas que aprovechan el entorno
 - Conexión con la naturaleza y el lugar
 
-## 📋 Proceso de Selección
+## Proceso de Selección
 
 ### **Postulación (Junio)**
 - Experiencia en facilitación grupal
@@ -65,7 +64,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 - **Confirmación de participación**: 22 de julio
 - Asignación de tipos de facilitación
 
-## 🛠️ Preparación (Agosto-Octubre)
+## Preparación (Agosto-Octubre)
 
 ### **Sesión de Preparación (Agosto)**
 - Brief sobre cultura y expectativas del evento
@@ -82,7 +81,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 - Coordinación con moderadores y MC
 - Preparación para contingencias
 
-## 🎪 Durante el Evento
+## Durante el Evento
 
 ### **Valdivia (6-8 Noviembre)**
 - Facilitación de sesiones programadas
@@ -108,7 +107,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 - Manejo de conflictos constructivos
 - Cierre e integración
 
-## 🎯 Criterios de Evaluación
+## Criterios de Evaluación
 
 1. **Experiencia previa** en facilitación grupal
 2. **Capacidad de escucha** y empatía
@@ -116,7 +115,7 @@ Crea espacios donde la magia conversacional suceda. Buscamos personas que escuch
 4. **Alineación** con valores del evento
 5. **Habilidades de comunicación** no verbal
 
-## 🔗 Recursos
+## Recursos
 
 - [Proceso de Selección](/02-contenidos/seleccion/)
 - [Código de Conducta](/08-recursos/guias/code-of-conduct/)

@@ -3,13 +3,12 @@ title: Conferencia Valdivia - Evento Principal
 description: Agenda general de la conferencia principal en Valdivia (6-8 noviembre)
 ---
 
-# Conferencia Valdivia ⭐ Evento Principal
 
-## 📅 6, 7 y 8 de Noviembre 2025
+## 6, 7 y 8 de Noviembre 2025
 
 La conferencia principal se realizará en Valdivia durante tres días intensivos de aprendizaje, networking y experiencias memorables.
 
-## 🎯 Objetivos del Evento
+## Objetivos del Evento
 
 ### **Experiencia Integral**
 - Combinar charlas inspiradoras con talleres prácticos
@@ -26,7 +25,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Crear vínculos profesionales duraderos
 - Celebrar logros y aprendizajes
 
-## 📋 Estructura General
+## Estructura General
 
 ### **Día 1 - Jueves 6 de Noviembre**
 **Enfoque**: Apertura e inmersión
@@ -55,7 +54,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 #### **Tarde**
 (pendiente)
 
-## 🏢 Espacios y Logística
+## Espacios y Logística
 
 ### **Venue Principal**
 - Auditorio para charlas principales (200-250 personas)
@@ -75,7 +74,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Kit de participante con materiales
 - Soporte técnico continuo
 
-## 👥 Participantes
+## Participantes
 
 ### **Capacidad Total**
 - 150-200 participantes presenciales
@@ -88,7 +87,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Estudiantes y académicos
 - Speakers y facilitadores invitados
 
-## 🎯 Formatos de Contenido
+## Formatos de Contenido
 
 ### **Charlas (20-30 min)**
 - Experiencias y casos reales
@@ -105,7 +104,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Unconference autoorganizada
 - Speed mentoring estructurado
 
-## 📊 Seguimiento y Medición
+## Seguimiento y Medición
 
 ### **Durante el Evento**
 - Analytics en tiempo real
@@ -117,7 +116,7 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Reporte de impacto
 - Seguimiento de conexiones generadas
 
-## 🔗 Coordinación
+## Coordinación
 
 ### **Preparación desde Paillaco**
 - El evento en Paillaco (5 nov) sirve como warm-up
@@ -129,16 +128,16 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - Continuidad de conversaciones iniciadas
 - Comunidad integrada
 
-## 📞 Contactos Clave
+## Contactos Clave
 
 - **Coordinación General**: [Por definir]
 - **Producción Local**: [Por definir]  
 - **Soporte Técnico**: [Por definir]
 - **Emergencias**: [Por definir]
 
-## 🔗 Enlaces Relacionados
+## Enlaces Relacionados
 
-- [Agenda Minuto a Minuto](/07-eventos/valdivia/agenda-detallada/)
-- [Logística Operativa](/07-eventos/valdivia/logistica-operativa/)
-- [Evento Paillaco](/07-eventos/paillaco/)
-- [Coordinación General](/07-eventos/valdivia/coordinacion-general/)
+- [Planificación General](/planificacion/overview)
+- [Roadmap Completo](/planificacion/roadmap)
+- [Estado Contenidos](/contenidos/overview)
+- [Estado Producción](/produccion/overview)

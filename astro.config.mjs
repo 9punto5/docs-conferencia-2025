@@ -26,32 +26,33 @@ export default defineConfig({
 				{
 					label: 'Planificación General',
 					items: [
-						{ label: 'Overview', link: '/01-planificacion-general/overview/' },
-						{ label: 'Dashboard', link: '/01-planificacion-general/dashboard/' },
+						{ label: 'Overview', link: '/planificacion/overview' },
+						{ label: 'Dashboard', link: '/planificacion/dashboard' },
+						{ label: 'Roadmap', link: '/planificacion/roadmap' },
 					],
 				},
 				{
 					label: 'Roadmap',
 					items: [
-						{ label: 'Junio', link: '/roadmap/01-junio/' },
-						{ label: 'Julio', link: '/roadmap/02-julio/' },
-						{ label: 'Agosto', link: '/roadmap/03-agosto/' },
-						{ label: 'Septiembre', link: '/roadmap/04-septiembre/' },
-						{ label: 'Octubre', link: '/roadmap/05-octubre/' },
-						{ label: 'Noviembre', link: '/roadmap/06-noviembre/' },
+						{ label: 'Junio', link: '/roadmap/junio' },
+						{ label: 'Julio', link: '/roadmap/julio' },
+						{ label: 'Agosto', link: '/roadmap/agosto' },
+						{ label: 'Septiembre', link: '/roadmap/septiembre' },
+						{ label: 'Octubre', link: '/roadmap/octubre' },
+						{ label: 'Noviembre', link: '/roadmap/noviembre' },
 					],
 				},
 				{
 					label: 'Contenidos de la Conferencia',
 					items: [
-						{ label: 'Planificación', link: '/02-contenidos/planificacion/' },
+						{ label: 'Overview', link: '/contenidos/overview' },
 						{
 							label: 'Roles de Participantes',
 							items: [
-								{ label: 'Facilitación', link: '/02-contenidos/roles-participantes/facilitacion/' },
-								{ label: 'Speakers', link: '/02-contenidos/roles-participantes/speakers/' },
-								{ label: 'Voluntarios', link: '/02-contenidos/roles-participantes/voluntarios/' },
-								{ label: 'Workshops', link: '/02-contenidos/roles-participantes/workshops/' },
+								{ label: 'Facilitadores', link: '/contenidos/roles/facilitadores' },
+								{ label: 'Speakers', link: '/contenidos/roles/speakers' },
+								{ label: 'Voluntarios', link: '/contenidos/roles/voluntarios' },
+								{ label: 'Workshops', link: '/contenidos/roles/workshops' },
 							],
 						},
 					],
@@ -59,19 +60,19 @@ export default defineConfig({
 				{
 					label: 'Producción',
 					items: [
-						{ label: 'Planificación', link: '/03-produccion/planificacion/' },
+						{ label: 'Overview', link: '/produccion/overview' },
 					],
 				},
 				{
 					label: 'Marketing y Diseño',
 					items: [
-						{ label: 'Planificación', link: '/04-marketing/planificacion/' },
+						{ label: 'Overview', link: '/marketing/overview' },
 					],
 				},
 				{
 					label: 'Tecnología y UX',
 					items: [
-						{ label: 'Planificación', link: '/05-tecnologia/planificacion/' },
+						{ label: 'Overview', link: '/tecnologia/overview' },
 					],
 				},
 				{
@@ -80,7 +81,7 @@ export default defineConfig({
 						{
 							label: 'Valdivia',
 							items: [
-								{ label: 'Agenda General', link: '/07-eventos/valdivia/agenda-general/' },
+								{ label: 'Agenda', link: '/eventos/valdivia/agenda' },
 							],
 						},
 					],

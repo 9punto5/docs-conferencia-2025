@@ -3,7 +3,6 @@ title: Tecnología y UX
 description: Planificación tecnológica para la conferencia 2025
 ---
 
-# Planificación de Tecnología y UX
 
 ## Junio
 - **Levantar requerimientos** sistema de acreditación

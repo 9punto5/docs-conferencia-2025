@@ -7,38 +7,55 @@ hero:
     Conferencia 2025
   tagline: Centro de planificación - Valdivia, 6-8 noviembre
   actions:
-    - text: Dashboard
-      link: /01-planificacion-general/dashboard/
+    - text: Dashboard Ejecutivo
+      link: /planificacion/dashboard
       icon: right-arrow
       variant: primary
+    - text: Ver Roadmap
+      link: /planificacion/roadmap
+      icon: right-arrow
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## 📅 Evento Principal
+## Evento Principal
 
 **6, 7 y 8 de noviembre** en Valdivia  
 Evento previo: 5 de noviembre en Paillaco
 
 ## Áreas de Trabajo
 
+<CardGrid stagger>
+  <Card title="Planificación General" icon="chart" href="/planificacion/overview">
+    Dashboard ejecutivo, roadmap general y coordinación entre áreas
+  </Card>
+  <Card title="Contenidos" icon="document" href="/contenidos/overview">
+    Curaduría de speakers, talleres, facilitación y formatos del evento
+  </Card>
+  <Card title="Producción" icon="setting" href="/produccion/overview">
+    Logística operativa, venue, proveedores y merchandising
+  </Card>
+  <Card title="Marketing" icon="pencil" href="/marketing/overview">
+    Estrategia de comunicación, diseño y venta de entradas
+  </Card>
+  <Card title="Tecnología" icon="laptop" href="/tecnologia/overview">
+    Sistemas de acreditación, plataforma digital y streaming
+  </Card>
+  <Card title="Evento Valdivia" icon="star" href="/eventos/valdivia/agenda">
+    Agenda y coordinación del evento principal
+  </Card>
+</CardGrid>
+
+## Accesos Rápidos
+
 <CardGrid>
-  <Card title="Planificación General" icon="chart" href="/01-planificacion-general/dashboard/">
-    Dashboard ejecutivo y roadmap general
+  <Card title="Dashboard" icon="chart">
+    [Ver estado actual →](/planificacion/dashboard)
   </Card>
-  <Card title="Contenidos" icon="document" href="/02-contenidos/planificacion/">
-    Speakers, workshops, facilitación
+  <Card title="Roadmap Mensual" icon="calendar">
+    [Ver timeline →](/roadmap/junio)
   </Card>
-  <Card title="Producción" icon="setting" href="/03-produccion/planificacion/">
-    Logística, venue y proveedores
-  </Card>
-  <Card title="Marketing" icon="pencil" href="/04-marketing/planificacion/">
-    Comunicación y entradas
-  </Card>
-  <Card title="Tecnología" icon="laptop" href="/05-tecnologia/planificacion/">
-    Sistemas y acreditación
-  </Card>
-  <Card title="Eventos" icon="star" href="/07-eventos/valdivia/agenda-general/">
-    Valdivia y Paillaco
+  <Card title="Roles y Participantes" icon="group">
+    [Ver roles →](/contenidos/roles/speakers)
   </Card>
 </CardGrid>

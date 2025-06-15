@@ -1,13 +1,17 @@
 ---
 title: Roadmap - Agosto
-description: Actividades y tareas para agosto
+description: Preparación de speakers y segunda etapa de marketing
 ---
+
+## Objetivos del mes
+Iniciar preparación intensiva con speakers, lanzar segunda etapa de entradas y consolidar el programa del evento.
 
 ## Speakers
 - Contratos y acuerdos
 - Sesión de preparación 1
 
 ## Marketing y Diseño
+- **Anuncio público de speakers** confirmados (inicio agosto)
 - Lanzamiento segunda etapa de entradas
 - Difusión de speakers y facilitadores
 
@@ -23,5 +27,10 @@ description: Actividades y tareas para agosto
 ## Tecnología / UX
 - Configuración nuevas entradas
 
-## Sponsors/Patrocinadores
+## Sponsors
 - Venta de auspicios
+- Activación de primeros sponsors
+- Desarrollo de beneficios específicos
+
+## Enlaces relacionados
+- [Roadmap General](/planificacion/roadmap) - Vista ejecutiva y coordinación

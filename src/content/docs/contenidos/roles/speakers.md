@@ -3,13 +3,12 @@ title: Speakers - Dar una charla
 description: Información para quienes quieren dar una charla en la conferencia
 ---
 
-# Speakers - Dar una charla
 
-## 🎤 Descripción del Rol
+## Descripción del Rol
 
 En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos historias honestas sobre lo que funciona y los aprendizajes.
 
-## ✨ Lo que Buscamos
+## Lo que Buscamos
 
 ### **Experiencias honestas y aprendizajes**
 - Relatos auténticos de proyectos reales
@@ -26,7 +25,7 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 - Variedad de enfoques y soluciones
 - Voces representativas de la comunidad
 
-## 📋 Proceso de Selección
+## Proceso de Selección
 
 ### **Postulación (Junio)**
 - Envío de propuesta de charla
@@ -43,7 +42,7 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 - **Confirmación de participación**: 22 de julio
 - Comunicación a todos los postulantes
 
-## 🎯 Criterios de Evaluación
+## Criterios de Evaluación
 
 1. **Relevancia del tema** para la audiencia
 2. **Calidad del contenido** y estructura
@@ -51,7 +50,7 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 4. **Originalidad** y valor diferencial
 5. **Diversidad** en perspectivas y voces
 
-## 📝 Preparación (Agosto-Octubre)
+## Preparación (Agosto-Octubre)
 
 ### **Sesión de Preparación 1 (Agosto)**
 - Brief de formato y expectativas
@@ -68,7 +67,7 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 - Ensayos técnicos
 - Coordinación logística
 
-## 🎪 Durante el Evento
+## Durante el Evento
 
 ### **Valdivia (6-8 Noviembre)**
 - Charlas principales en el evento central
@@ -80,7 +79,7 @@ En 2025 tendremos unas 10 a 15 charlas. Cada una debe ser memorable. Buscamos hi
 - Q&A: 10 minutos
 - Formato híbrido: presencial + streaming
 
-## 🔗 Recursos
+## Recursos
 
 - [Consejos para Postulación](https://9punto5.cl/blog/speakers-talleres-2025/)
 - [Código de Conducta](/08-recursos/guias/code-of-conduct/)

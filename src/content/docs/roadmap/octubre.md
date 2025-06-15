@@ -20,3 +20,6 @@ description: Actividades y tareas para octubre
 ## Tecnología / UX
 - Testing de sistemas y capacitación
 - Pre-acreditación y entradas transferibles
+
+## Enlaces relacionados
+- [Roadmap General](/planificacion/roadmap) - Vista ejecutiva y coordinación

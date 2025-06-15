@@ -3,7 +3,6 @@ title: Contenidos de la Conferencia
 description: Planificación de contenidos para la conferencia 2025
 ---
 
-# Contenidos de la Conferencia
 
 ## Junio
 - **Postulación** de speakers, talleres, facilitación y equipo voluntarios
@@ -13,8 +12,8 @@ description: Planificación de contenidos para la conferencia 2025
 
 ## Julio
 - **Selección final** de participantes
-- **Anuncio selección: 15 de julio** ⚠️
-- **Confirmar participación: 22 de julio** ⚠️
+- **Anuncio selección: 15 de julio**
+- **Confirmar participación: 22 de julio**
 - Charla bienvenida participantes
 - Creación de chat WhatsApp para coordinación
 

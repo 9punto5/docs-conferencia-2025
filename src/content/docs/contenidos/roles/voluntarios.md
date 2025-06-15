@@ -3,13 +3,12 @@ title: Voluntarios - Apoyar la producción
 description: Información para quienes quieren apoyar la producción del evento
 ---
 
-# Voluntarios - Apoyar la producción
 
-## ❤️ Descripción del Rol
+## Descripción del Rol
 
 Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver imprevistos creativamente con autonomía y proactividad.
 
-## ✨ Lo que Buscamos
+## Lo que Buscamos
 
 ### **Experiencias memorables**
 - Orientación al participante y su experiencia
@@ -26,7 +25,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Comunicación cálida y efectiva
 - Representación de los valores del evento
 
-## 🎯 Áreas de Apoyo
+## Áreas de Apoyo
 
 ### **Recepción y Acreditación**
 - Bienvenida a participantes
@@ -53,7 +52,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Gestión de espacios de descanso
 - Atención a necesidades especiales
 
-## 📋 Proceso de Selección
+## Proceso de Selección
 
 ### **Postulación (Junio)**
 - Motivación para participar
@@ -70,7 +69,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - **Confirmación de participación**: 22 de julio
 - Asignación de equipos y roles
 
-## 🛠️ Preparación y Capacitación
+## Preparación y Capacitación
 
 ### **Capacitación General (Agosto-Septiembre)**
 - Introducción a la cultura del evento
@@ -87,7 +86,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Distribución de turnos y horarios
 - Contactos y canales de comunicación
 
-## 📅 Cronograma de Participación
+## Cronograma de Participación
 
 ### **Santiago - Eventos Preparatorios**
 - Apoyo en eventos de preparación
@@ -104,7 +103,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - **Días 1-3 (6-8 nov)**: Operación del evento
 - **Día 4**: Desmontaje y cierre
 
-## 👥 Estructura de Equipos
+## Estructura de Equipos
 
 ### **Coordinadores de Área**
 - Responsables de equipos específicos
@@ -116,7 +115,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Apoyo flexible según necesidades
 - Feedback y mejora continua
 
-## 🎁 Beneficios para Voluntarios
+## Beneficios para Voluntarios
 
 ### **Experiencia y Aprendizaje**
 - Participación en evento de primer nivel
@@ -133,7 +132,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Acceso a espacios de networking
 - Kit de participante
 
-## 📋 Requisitos
+## Requisitos
 
 ### **Indispensables**
 - Disponibilidad para fechas del evento
@@ -145,7 +144,7 @@ Crear experiencias memorables. Desde recibir con una sonrisa hasta resolver impr
 - Habilidades específicas (técnicas, idiomas, etc.)
 - Conexión con la comunidad
 
-## 🔗 Recursos
+## Recursos
 
 - [Código de Conducta](/08-recursos/guias/code-of-conduct/)
 - [Equipo de Producción](/03-produccion/equipo/)

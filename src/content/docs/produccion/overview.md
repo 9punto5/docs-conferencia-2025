@@ -3,7 +3,6 @@ title: Producción
 description: Planificación de producción para la conferencia 2025
 ---
 
-# Planificación de Producción
 
 ## Junio
 - **Definir lugar** del evento

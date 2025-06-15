@@ -22,3 +22,7 @@ description: Actividades y tareas para noviembre
 ## Tecnología / UX
 - Soporte técnico en vivo
 - Analytics en tiempo real
+
+## Enlaces relacionados
+- [Roadmap General](/planificacion/roadmap) - Vista ejecutiva y coordinación
+- [Dashboard Ejecutivo](/planificacion/dashboard) - Seguimiento post-evento

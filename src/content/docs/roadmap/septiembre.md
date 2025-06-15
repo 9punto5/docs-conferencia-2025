@@ -15,8 +15,11 @@ description: Actividades y tareas para septiembre
 - Staff y voluntarios (roles, turnos, capacitación)
 - Finalización de materiales impresos
 
-## Sponsors/Patrocinadores
+## Sponsors
 - Venta de auspicios
 
 ## Tecnología / UX
 - Publicación de programa en plataforma
+
+## Enlaces relacionados
+- [Roadmap General](/planificacion/roadmap) - Vista ejecutiva y coordinación
