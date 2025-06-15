@@ -12,7 +12,9 @@ export default config({
       path: 'src/content/docs/01-planificacion-general/**',
       format: { contentField: 'content' },
       schema: {
-        title: fields.slug({ name: { label: 'Título' } }),
+        title: fields.text({ 
+          label: 'Título',
+        }),
         description: fields.text({ 
           label: 'Descripción',
           multiline: true,
