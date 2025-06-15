@@ -7,7 +7,7 @@ import netlify from '@astrojs/netlify';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://docs.9punto5.cl', // También funciona en Netlify gratis
-	output: 'hybrid',
+	output: 'server',
 	adapter: netlify(),
 	integrations: [
 		keystatic(),
