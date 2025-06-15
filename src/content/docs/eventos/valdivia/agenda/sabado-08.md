@@ -1,9 +1,8 @@
 ---
-title: Sábado 08 de noviembre - Agenda
+title: Sábado 08 de noviembre
 description: Agenda detallada del tercer y último día de la conferencia
 ---
 
-# Sábado 08 de noviembre 2025
 **Día 3 - Síntesis y Proyección**
 
 ## Mañana
@@ -155,4 +154,4 @@ description: Agenda detallada del tercer y último día de la conferencia
 ---
 
 **Estado**: 🚧 En planificación
-**Última actualización**: Diciembre 2024
+**Última actualización**: Junio 2025

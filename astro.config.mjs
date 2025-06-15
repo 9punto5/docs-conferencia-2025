@@ -103,9 +103,14 @@ export default defineConfig({
 							label: 'Valdivia',
 							items: [
 								{ label: 'Overview', link: '/eventos/valdivia/overview' },
-								{ label: 'Jueves 06', link: '/eventos/valdivia/jueves-06' },
-								{ label: 'Viernes 07', link: '/eventos/valdivia/viernes-07' },
-								{ label: 'Sábado 08', link: '/eventos/valdivia/sabado-08' },
+								{
+									label: 'Agenda',
+									items: [
+										{ label: 'Jueves 06', link: '/eventos/valdivia/agenda/jueves-06' },
+										{ label: 'Viernes 07', link: '/eventos/valdivia/agenda/viernes-07' },
+										{ label: 'Sábado 08', link: '/eventos/valdivia/agenda/sabado-08' },
+									],
+								},
 							],
 						},
 					],

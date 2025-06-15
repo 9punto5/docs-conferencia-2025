@@ -6,7 +6,7 @@ description: Centro de control y seguimiento en tiempo real de la conferencia 20
 ## PRÓXIMOS HITOS
 
 ### **30 de junio** - Cierre de postulaciones
-- **Status**: En curso - Postulaciones abiertas
+- **Status**: 🟡 En curso - Quedan 15 días
 - **Acción requerida**: Promoción final de postulaciones
 
 ### **15 de julio** - Comunicación a speakers seleccionados  
@@ -100,6 +100,10 @@ description: Centro de control y seguimiento en tiempo real de la conferencia 20
 2. **Definir comité de evaluación** para postulaciones
 3. **Actualizar métricas** de postulaciones y ventas
 4. **Confirmar proveedores** principales (catering, audiovisual)
+
+---
+
+**Última actualización**: 15 de junio de 2025
 
 ---
 

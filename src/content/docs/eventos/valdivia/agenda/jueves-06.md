@@ -1,9 +1,8 @@
 ---
-title: Jueves 06 de noviembre - Agenda
+title: Jueves 06 de noviembre
 description: Agenda detallada del primer día de la conferencia
 ---
 
-# Jueves 06 de noviembre 2025
 **Día 1 - Apertura e Inmersión**
 
 ## Mañana
@@ -102,4 +101,4 @@ description: Agenda detallada del primer día de la conferencia
 ---
 
 **Estado**: 🚧 En planificación
-**Última actualización**: Diciembre 2024
+**Última actualización**: Junio 2025

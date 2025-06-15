@@ -1,9 +1,8 @@
 ---
-title: Viernes 07 de noviembre - Agenda
+title: Viernes 07 de noviembre
 description: Agenda detallada del segundo día de la conferencia
 ---
 
-# Viernes 07 de noviembre 2025
 **Día 2 - Profundización y Conexiones**
 
 ## Mañana
@@ -119,4 +118,4 @@ description: Agenda detallada del segundo día de la conferencia
 ---
 
 **Estado**: 🚧 En planificación
-**Última actualización**: Diciembre 2024
+**Última actualización**: Junio 2025

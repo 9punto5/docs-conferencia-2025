@@ -84,14 +84,39 @@ description: Descripción breve y clara del contenido
 ---
 ```
 
+### Patrón de Contenido
+**Evitar repetir el título en el contenido**:
+```markdown
+---
+title: Jueves 06 de noviembre
+description: Agenda detallada del primer día
+---
+
+**Día 1 - Apertura e Inmersión**  ← Correcto (no repite el título)
+
+## Contenido...
+```
+
+**❌ Incorrecto:**
+```markdown
+---
+title: Jueves 06 de noviembre
+---
+
+# Jueves 06 de noviembre  ← Redundante
+```
+
 ## Recordatorios Específicos
 
 1. **Siempre revisar** la capitalización de títulos antes de guardar
 2. **Post-evento** nunca lleva mayúscula en la segunda palabra
 3. **Mantener consistencia** en el uso de anglicismos técnicos
 4. **Usar números con cero inicial** en fechas (06, 07, 08)
+5. **Actualizar configuración** cuando se mueven archivos o cambian rutas:
+   - `astro.config.mjs` - actualizar navegación si es necesario
+   - `keystatic.config.ts` - actualizar colecciones si es necesario
 
 ---
 
-**Última actualización**: Diciembre 2024  
+**Última actualización**: Junio 2025  
 **Propósito**: Mantener consistencia en toda la documentación del evento

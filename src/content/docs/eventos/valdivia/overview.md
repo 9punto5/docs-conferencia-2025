@@ -89,9 +89,9 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 
 ## Agendas Detalladas
 
-- [Jueves 06 de noviembre](/eventos/valdivia/jueves-06)
-- [Viernes 07 de noviembre](/eventos/valdivia/viernes-07)
-- [Sábado 08 de noviembre](/eventos/valdivia/sabado-08)
+- [Jueves 06 de noviembre](/eventos/valdivia/agenda/jueves-06)
+- [Viernes 07 de noviembre](/eventos/valdivia/agenda/viernes-07)
+- [Sábado 08 de noviembre](/eventos/valdivia/agenda/sabado-08)
 
 ## Contactos Clave
 
