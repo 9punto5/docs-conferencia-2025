@@ -156,8 +156,6 @@ La conferencia principal se realizará en Valdivia durante tres días intensivos
 - **Soporte Técnico**: [Por definir]
 - **Emergencias**: [Por definir]
 
----
-
 ## 🔗 Enlaces Relacionados
 
 - [Agenda Minuto a Minuto](/07-eventos/valdivia/agenda-detallada/)
