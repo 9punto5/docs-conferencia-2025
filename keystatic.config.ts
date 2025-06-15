@@ -166,10 +166,10 @@ export default config({
         }),
       },
     }),
-    'eventos': collection({
-      label: '🎪 Eventos',
+    'evento-valdivia': collection({
+      label: '⭐ Evento Valdivia',
       slugField: 'title',
-      path: 'src/content/docs/07-eventos/*',
+      path: 'src/content/docs/07-eventos/valdivia/*',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
