@@ -4,101 +4,62 @@ description: Información general de la conferencia principal en Valdivia (6-8 n
 ---
 
 
-## 6, 7 y 8 de noviembre 2025
+## La experiencia 9punto5 2025
 
-La conferencia principal se realizará en Valdivia durante tres días intensivos de aprendizaje, networking y experiencias memorables.
+Del 6 al 8 de noviembre, Valdivia se convierte en el epicentro de "Revolución IA: de lo inevitable a lo posible". Tres días donde 200-250 personas navegan juntas la complejidad de la IA, sin gurús que prometen revoluciones instantáneas ni apocalípticos que aseguran que estamos condenados.
 
-## Objetivos del Evento
+Un espacio para contrastar ideas con realidad, reformular conceptos cuando chocan con tu experiencia, y desarrollar tu propia voz en esta transformación.
 
-### Experiencia Integral
+## ¿Para quién es esta conferencia?
 
-- Combinar charlas inspiradoras con talleres prácticos
-- Facilitar conexiones genuinas entre participantes
-- Ofrecer múltiples formatos de interacción
+Esta experiencia está pensada para:
 
-### Contenido de Calidad
+- **Si recién empiezas con IA** y quieres dominar herramientas sin programar
+- **Si ya usas IA en tu trabajo** y buscas eficientar tu rol específico (diseño, marketing, análisis, etc.)
+- **Si eres developer** y quieres implementar IA en tu stack actual sin romper nada
+- **Si lideras equipos** y necesitas transformar la cultura y adopción de IA en tu organización
 
-- 10-15 charlas seleccionadas cuidadosamente
-- Talleres hands-on con aplicación inmediata
-- Conversaciones facilitadas y networking estructurado
+## El viaje de tres días
 
-### Comunidad y Conexión
+### **Día 1 - Conceptos**: Marcos para entender la complejidad
 
-- Fortalecer la comunidad 9punto5
-- Crear vínculos profesionales duraderos
-- Celebrar logros y aprendizajes
+Recibes lenguaje y conceptos para organizar el ruido. Historias reales que te ayudan a entender tu propia situación - no verdades absolutas, sino herramientas para pensar tu contexto específico.
 
-## Espacios y Logística
+### **Día 2 - Contraste**: Cuando las ideas chocan con tu realidad  
 
-### Venue Principal
+El día donde tus conceptos se enfrentan a experiencias diversas. Conversaciones que revelan dónde tu entendimiento actual no encaja, y debates que reformulan tu perspectiva.
 
-- Auditorio para charlas principales (200-250 personas)
-- Salas paralelas para talleres (10-30 personas c/u)
-- Espacios de networking y breaks
-- Área de catering y descanso
+### **Día 3 - Reformulación**: Tu propia voz en la transformación
 
-### Tecnología
+Procesas las diferencias entre lo que pensabas y lo que experimentaste. Te vas no con respuestas definitivas, sino con marcos refinados y tu propia síntesis para navegar la incertidumbre.
 
-- Streaming en vivo de charlas principales
-- Sistemas de audio profesional
-- Proyección y conectividad
-- Plataforma digital para participantes
+## Cómo navegamos juntos la complejidad
 
-### Servicios
+- **Charlas**: Experiencias como "mapas del metro" - simplifican la realidad para que puedas orientarte
+- **Talleres**: Laboratorios donde tus ideas chocan con la práctica y se refinan
+- **Mesas redondas**: Debates que revelan dónde tu forma actual de pensar se queda corta
+- **Unconference**: Conversaciones emergentes sobre lo que realmente necesitas entender
+- **Speed mentoring**: Contrastes directos entre tu experiencia y la de otros
 
-- Catering completo (desayunos, almuerzos, breaks)
-- Transporte coordinado (aeropuerto-hotel-venue)
+## Información práctica
+
+### Ubicación y capacidad
+
+- Venue principal con auditorio para 200-250 personas
+- Salas paralelas para talleres (10-30 personas cada una)
+- Espacios diseñados para networking y conexiones genuinas
+
+### Experiencia completa incluida
+
+- Transmisión online de charlas principales
+- Catering completo durante los tres días
 - Kit de participante con materiales
-- Soporte técnico continuo
+- Transporte coordinado desde aeropuerto y hoteles
+- Soporte técnico y logístico continuo
 
-## Participantess
+### Conexión con otros eventos
 
-### Capacidad Total
-
-- 150-200 participantes presenciales
-- Audiencia online para charlas principales
-- Mix de profesionales locales e internacionales
-
-### Perfil de Asistentes
-
-- Profesionales de tecnología y negocios
-- Emprendedores y líderes de equipos
-- Estudiantes y académicos
-- Speakers y facilitadores invitados
-
-## Formatos de Contenido
-
-### Charlas (20-30 min)
-
-- Experiencias y casos reales
-- Lecciones aprendidas
-- Perspectivas diversas
-
-### Talleres (60-90 min)
-
-- Sesiones hands-on
-- Herramientas aplicables
-- Trabajo en grupos pequeños
-
-### Conversaciones Facilitadas
-
-- Mesas redondas temáticas
-- Unconference autoorganizada
-- Speed mentoring estructurado
-
-## Coordinación
-
-### Preparación desde Paillaco
-
-- El evento en Paillaco (5 nov) sirve como warm-up
-- Team building y alineación final
-- Últimos ajustes logísticos
-
-### Integración con Santiago
-
-- Participantes de eventos preparatorios
-- Continuidad de conversaciones iniciadas
-- Comunidad integrada
+La conferencia se integra con el warm-up en Paillaco (5 nov) y los eventos preparatorios de Santiago, creando una experiencia extendida para la comunidad 9punto5.
 
 ## Agendas Detalladas
 

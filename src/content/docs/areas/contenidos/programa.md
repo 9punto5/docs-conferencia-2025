@@ -3,8 +3,6 @@ title: Programa
 description: Programa detallado de la conferencia 2025
 ---
 
-# Programa
-
 ## Estado actual
 
 🚧 **Pendiente**
