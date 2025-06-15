@@ -4,12 +4,13 @@ description: Confirmaciones y lanzamiento de campaña
 ---
 
 ## Objetivos del mes
-Confirmar participaciones clave, lanzar estrategia de marketing y consolidar la base operativa de la conferencia.
+Confirmar participaciones clave, lanzar estrategia de marketing, consolidar la base operativa y **reforzar intensivamente la venta de auspicios** (mes crítico).
 
 ## Hitos críticos
 - **15 de julio**: Comunicación a speakers seleccionados
 - **22 de julio**: Plazo límite para que speakers confirmen participación
 - **Fin de mes**: Lista definitiva de speakers confirmados
+- **Todo el mes**: 🔥 **PERÍODO CRÍTICO DE VENTA DE AUSPICIOS**
 
 ## Contenidos
 
@@ -84,15 +85,19 @@ Confirmar participaciones clave, lanzar estrategia de marketing y consolidar la 
 
 ## Sponsors
 
-### Ventas activas
-- **Pitch a sponsors** potenciales
-- **Propuestas personalizadas** según sponsor
-- **Primeros contratos** firmados
-- **Pipeline** de oportunidades gestionado
+### 🔥 **REFUERZO INTENSIVO DE VENTAS - MES CRÍTICO**
+- **Intensificación de calls comerciales** diarias
+- **Follow-up agresivo** de leads de junio
+- **Propuestas urgentes** a empresas en consideración
+- **Cierre de sponsors principales** para asegurar financiamiento
+- **Escalación comercial** a nivel C-suite si es necesario
+- **Activación de red de contactos** del equipo organizador
 
-### Entregables
-- Primeros sponsors confirmados
-- Pipeline actualizado semanalmente
+### Entregables críticos
+- **Mínimo 3 sponsors principales** confirmados
+- **50% del objetivo de sponsorship** alcanzado
+- Pipeline con seguimiento diario
+- Reporte semanal de avance al equipo ejecutivo
 
 ## Enlaces relacionados
 - [Roadmap General](/planificacion/roadmap) - Vista ejecutiva y coordinación

@@ -3,75 +3,35 @@ title: Roadmap detallado
 description: Planificación operativa mensual para la conferencia 2025
 ---
 
-# Roadmap detallado
-
-Planificación operativa específica y tareas concretas organizadas por mes para la conferencia 2025.
-
 ## Propósito
 
-Mientras que el [Roadmap general](/planificacion/roadmap) presenta una vista ejecutiva con hitos críticos y fases, estos roadmaps detallados contienen:
+Mientras que el [Roadmap general](/planificacion/roadmap) presenta una **vista ejecutiva** con hitos críticos y fases, estos roadmaps detallados contienen la **planificación operativa** específica:
 
-- **Tareas específicas** por área y mes
-- **Cronogramas operativos** detallados  
-- **Entregables concretos** y responsables
-- **Coordinación entre áreas** mes a mes
+- Tareas específicas por área y mes
+- Cronogramas operativos detallados  
+- Entregables concretos y responsables
+- Coordinación entre áreas mes a mes
 
-## Roadmaps mensuales disponibles
+## Roadmaps mensuales
 
-### **[Junio](/planificacion/roadmap-detallado/junio)**
-- Selección y setup inicial
-- Postulaciones y evaluación
-- Definición de venue y proveedores
+- **[Junio](/planificacion/roadmap-detallado/junio)** - Setup inicial y postulaciones
+- **[Julio](/planificacion/roadmap-detallado/julio)** - Confirmaciones de postulaciones seleccionadas y venta intensiva auspicios
+- **[Agosto](/planificacion/roadmap-detallado/agosto)** - Preparación con speakers
+- **[Septiembre](/planificacion/roadmap-detallado/septiembre)** - Programa y team building
+- **[Octubre](/planificacion/roadmap-detallado/octubre)** - Preparación final
+- **[Noviembre](/planificacion/roadmap-detallado/noviembre)** - Ejecución del evento
 
-### **[Julio](/planificacion/roadmap-detallado/julio)**
-- Confirmaciones y estrategia
-- Lanzamiento de marketing
-- Consolidación operativa
+## Audiencia y uso
 
-### **[Agosto](/planificacion/roadmap-detallado/agosto)**
-- Preparación intensiva con speakers
-- Segunda etapa de entradas
-- Desarrollo de materiales
+**Coordinadores de área**: Tareas específicas y coordinación mensual  
+**Equipo ejecutivo**: Progreso operativo detallado  
+**Colaboradores**: Contexto e integración de tareas asignadas
 
-### **[Septiembre](/planificacion/roadmap-detallado/septiembre)**
-- Programa oficial publicado
-- Team building y capacitación
-- Tercera etapa de entradas
+## Navegación
 
-### **[Octubre](/planificacion/roadmap-detallado/octubre)**
-- Preparación final y testing
-- Ensayos técnicos
-- Agenda minuto a minuto
-
-### **[Noviembre](/planificacion/roadmap-detallado/noviembre)**
-- Ejecución del evento
-- Soporte operativo en tiempo real
-- Cobertura y documentación
-
-## Cómo usar estos roadmaps
-
-### **Para coordinadores de área**
-- Revisar tareas específicas de tu área cada mes
-- Coordinar entregables con otras áreas
-- Planificar recursos y timing
-
-### **Para el equipo ejecutivo**
-- Vista detallada del progreso operativo
-- Identificación de dependencias críticas
-- Seguimiento de entregables específicos
-
-### **Para colaboradores**
-- Entender el contexto de las tareas asignadas
-- Ver cómo tu trabajo se integra al plan general
-- Anticipar necesidades y preparación
-
-## Relación con otros documentos
-
-- **[Roadmap general](/planificacion/roadmap)**: Vista ejecutiva y hitos críticos
-- **[Dashboard](/planificacion/dashboard)**: Estado actual y métricas
-- **[Overview de áreas](/planificacion/overview)**: Responsabilidades por área
+- **Vista ejecutiva**: [Roadmap general](/planificacion/roadmap)
+- **Estado actual**: [Dashboard](/planificacion/dashboard)  
+- **Responsabilidades**: [Overview de áreas](/planificacion/overview)
 
 ---
-
-**Actualización**: Los roadmaps detallados se actualizan mensualmente conforme avanza el proyecto
-**Última revisión**: Diciembre 2024
+**Última revisión**: Junio 2025

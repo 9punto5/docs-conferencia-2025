@@ -28,7 +28,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Overview', link: '/planificacion/overview' },
 						{ label: 'Dashboard', link: '/planificacion/dashboard' },
-						{ label: 'Roadmap', link: '/planificacion/roadmap' },
+						{ label: 'Roadmap general', link: '/planificacion/roadmap' },
 						{
 							label: 'Roadmap detallado',
 							items: [
@@ -78,6 +78,7 @@ export default defineConfig({
 							label: 'Marketing y diseño',
 							items: [
 								{ label: 'Overview', link: '/areas/marketing-diseno/overview' },
+								{ label: 'Sponsorship', link: '/areas/marketing-diseno/sponsorship/overview' },
 							],
 						},
 						{
@@ -91,7 +92,6 @@ export default defineConfig({
 							items: [
 								{ label: 'Overview', link: '/areas/finanzas/overview' },
 								{ label: 'Presupuesto', link: '/areas/finanzas/presupuesto' },
-								{ label: 'Sponsors', link: '/areas/finanzas/sponsors' },
 							],
 						},
 					],
