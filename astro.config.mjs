@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import keystatic from '@keystatic/astro';
 import netlify from '@astrojs/netlify';
+import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
@@ -10,6 +11,7 @@ export default defineConfig({
 	output: 'server',
 	adapter: netlify(),
 	integrations: [
+		react(),
 		keystatic(),
 		starlight({
 			title: 'Conferencia 2025',

@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^6.3.4",
+    "@astrojs/react": "^4.3.0",
     "@astrojs/starlight": "^0.34.4",
     "@keystatic/astro": "^5.0.6",
     "@keystatic/core": "^0.5.47",
     "astro": "^5.6.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "sharp": "^0.32.5"
   },
   "devDependencies": {
