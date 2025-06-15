@@ -2,8 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-# Using Netlify Identity + Git Gateway
-# Free for up to 1000 users
+# Using Auth0 + Git Gateway (better than deprecated Identity)
 
 # Media files stored in repo
 media_folder: "src/assets/images"
