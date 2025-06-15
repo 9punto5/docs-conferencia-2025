@@ -2,10 +2,13 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import keystatic from '@keystatic/astro';
+import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://docs.9punto5.cl', // También funciona en Netlify gratis
+	output: 'hybrid',
+	adapter: netlify(),
 	integrations: [
 		keystatic(),
 		starlight({
