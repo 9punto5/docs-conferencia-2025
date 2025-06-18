@@ -3,9 +3,17 @@ title: Finanzas
 description: Gestión financiera, presupuesto y sponsors de la conferencia 2025
 ---
 
-# Finanzas
+El área de Finanzas gestiona la sostenibilidad económica de la conferencia, equilibrando recursos, ingresos y gastos para asegurar un evento de calidad y financieramente viable. Se encarga de desarrollar estrategias de financiamiento, gestionar relaciones con sponsors, controlar presupuestos y optimizar la rentabilidad, manteniendo siempre la transparencia y la responsabilidad fiscal que caracterizan a la organización.
 
-Área responsable de la gestión financiera integral de la conferencia 2025, incluyendo presupuesto, sponsors, auspicios y control de costos.
+## Áreas de acción
+
+- **Planificación presupuestaria**: Desarrollo y seguimiento del presupuesto general por áreas, coordinación con otras áreas para definir costos
+- **Gestión de sponsors**: Prospección, negociación y activación de auspicios corporativos
+- **Control de costos**: Monitoreo de gastos y optimización de recursos
+- **Estrategias de ingresos**: Venta de entradas, merchandising y servicios adicionales
+- **Análisis financiero**: Proyecciones, ROI y viabilidad económica del evento
+- **Administración fiscal**: Facturación, contabilidad y cumplimiento tributario
+- **Reporting financiero**: Informes de estado y transparencia para stakeholders
 
 ## Responsabilidades principales
 

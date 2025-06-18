@@ -116,6 +116,40 @@ export default config({
         }),
       },
     }),
+    'areas-experiencia': collection({
+      label: 'Áreas - Experiencia',
+      slugField: 'title',
+      path: 'src/content/docs/areas/experiencia/**',
+      format: { contentField: 'content' },
+      schema: {
+        title: fields.slug({ name: { label: 'Título' } }),
+        description: fields.text({ 
+          label: 'Descripción',
+          multiline: true,
+        }),
+        content: fields.markdoc({
+          label: 'Contenido',
+          extension: 'md'
+        }),
+      },
+    }),
+    'areas-coordinacion': collection({
+      label: 'Áreas - Coordinación',
+      slugField: 'title',
+      path: 'src/content/docs/areas/coordinacion/**',
+      format: { contentField: 'content' },
+      schema: {
+        title: fields.slug({ name: { label: 'Título' } }),
+        description: fields.text({ 
+          label: 'Descripción',
+          multiline: true,
+        }),
+        content: fields.markdoc({
+          label: 'Contenido',
+          extension: 'md'
+        }),
+      },
+    }),
     'eventos': collection({
       label: 'Eventos',
       slugField: 'title',

@@ -47,6 +47,12 @@ export default defineConfig({
 					label: 'Áreas',
 					items: [
 						{
+							label: 'Coordinación',
+							items: [
+								{ label: 'Overview', link: '/areas/coordinacion/overview' },
+							],
+						},
+						{
 							label: 'Contenidos',
 							items: [
 								{ label: 'Overview', link: '/areas/contenidos/overview' },
@@ -62,16 +68,22 @@ export default defineConfig({
 							],
 						},
 						{
-							label: 'Experiencia y producción',
+							label: 'Experiencia',
 							items: [
-								{ label: 'Overview', link: '/areas/experiencia-produccion/overview' },
+								{ label: 'Overview', link: '/areas/experiencia/overview' },
 								{
 									label: 'Equipo',
 									items: [
-										{ label: 'Facilitación', link: '/areas/experiencia-produccion/roles/facilitacion' },
-										{ label: 'Operación', link: '/areas/experiencia-produccion/roles/operacion' },
+										{ label: 'Facilitación', link: '/areas/experiencia/roles/facilitacion' },
+										{ label: 'Equipo voluntario', link: '/areas/experiencia/roles/equipo-voluntario' },
 									],
 								},
+							],
+						},
+						{
+							label: 'Producción',
+							items: [
+								{ label: 'Overview', link: '/areas/experiencia-produccion/overview' },
 							],
 						},
 						{
@@ -82,7 +94,7 @@ export default defineConfig({
 							],
 						},
 						{
-							label: 'Tecnología',
+							label: 'Tecnología y UX',
 							items: [
 								{ label: 'Overview', link: '/areas/tecnologia/overview' },
 							],

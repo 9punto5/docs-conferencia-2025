@@ -1,5 +1,5 @@
 ---
-title: Voluntarios - Apoyar la producción
+title: Equipo voluntario
 description: Información para quienes quieren apoyar la producción del evento
 ---
 

@@ -3,6 +3,17 @@ title: Marketing y Diseño
 description: Planificación de marketing y diseño para la conferencia 2025
 ---
 
+El área de Marketing y Diseño construye la identidad visual y narrativa de la conferencia, creando las estrategias de comunicación que conectan el evento con su audiencia. Se encarga de desarrollar la marca, gestionar la presencia digital, coordinar campañas de difusión y diseñar todas las piezas gráficas que representan la experiencia 9punto5, asegurando coherencia y impacto en cada punto de contacto con la comunidad.
+
+## Áreas de acción
+
+- **Identidad visual**: Desarrollo de marca, logo, paletas de colores y guías de estilo
+- **Estrategia de comunicación**: Planificación de mensajes y narrativas para diferentes audiencias
+- **Gestión de redes sociales**: Contenido, community management y engagement
+- **Diseño gráfico**: Piezas promocionales, materiales impresos y digitales
+- **Venta de entradas**: Estrategias de preventa, tipos de entradas y promociones
+- **Gestión de sponsorship**: Desarrollo de propuestas y activación de auspicios
+- **Campaña de difusión**: Lanzamiento de speakers, programa y actividades
 
 ## Julio
 - Estrategia de marketing y diseño
