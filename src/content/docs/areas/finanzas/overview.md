@@ -8,7 +8,7 @@ El área de Finanzas gestiona la sostenibilidad económica de la conferencia, eq
 ## Áreas de acción
 
 - **Planificación presupuestaria**: Desarrollo y seguimiento del presupuesto general por áreas, coordinación con otras áreas para definir costos
-- **Gestión de sponsors**: Prospección, negociación y activación de auspicios corporativos
+- **Gestión de sponsors**: Negociación y cierre de auspicios corporativos (leads desde Marketing)
 - **Control de costos**: Monitoreo de gastos y optimización de recursos
 - **Estrategias de ingresos**: Venta de entradas, merchandising y servicios adicionales
 - **Análisis financiero**: Proyecciones, ROI y viabilidad económica del evento

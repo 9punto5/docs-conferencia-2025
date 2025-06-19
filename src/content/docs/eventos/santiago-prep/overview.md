@@ -5,7 +5,10 @@ description: Información de los eventos preparatorios y de warm-up en Santiago 
 
 **Estado**: 🚧 En desarrollo
 
-## Agosto y Octubre 2025
+## Fechas
+
+- **Evento 1**: Mediados de agosto 2025 (fecha exacta por confirmar)
+- **Evento 2**: Mediados de octubre 2025 (fecha exacta por confirmar)
 
 Serie de eventos preparatorios en Santiago para conectar con la comunidad local y generar momentum hacia la conferencia principal.
 

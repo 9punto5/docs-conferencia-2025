@@ -24,12 +24,14 @@ hero:
 
 ### Organización por áreas
 
-La conferencia está organizada en cinco áreas principales de trabajo:
+La conferencia está organizada en seis áreas principales de trabajo:
 
+- **[Coordinación](/areas/coordinacion/overview)**: Gestión transversal y sincronización
 - **[Contenidos](/areas/contenidos/overview)**: Curaduría y speakers
-- **[Experiencia y producción](/areas/experiencia-produccion/overview)**: Logística y operación
+- **[Experiencia](/areas/experiencia/overview)**: Coherencia experiencial y promesa del evento
+- **[Producción](/areas/experiencia-produccion/overview)**: Logística y operación
 - **[Marketing y diseño](/areas/marketing-diseno/overview)**: Comunicación y promoción
-- **[Tecnología](/areas/tecnologia/overview)**: Sistemas digitales
+- **[Tecnología y UX](/areas/tecnologia/overview)**: Sistemas digitales
 - **[Finanzas](/areas/finanzas/overview)**: Presupuesto y sponsors
 
 ### Recursos y documentación
