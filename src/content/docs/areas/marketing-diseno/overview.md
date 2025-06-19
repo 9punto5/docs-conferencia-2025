@@ -34,6 +34,10 @@ El área de Marketing y Diseño construye la narrativa de la conferencia, creand
 - **150 entradas vendidas antes del 15 septiembre**: Meta acumulada para asegurar masa crítica del evento
 - **200 entradas vendidas antes del 15 octubre**: Meta total para llenar el venue (capacidad 200-250)
 
+---
+
+# Roadmap tentativo (solo de ejemplo)
+
 ## Junio
 
 - **Todo el mes**: Promoción constante de postulaciones
