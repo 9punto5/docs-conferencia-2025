@@ -3,19 +3,19 @@ title: Overview
 description: Área dedicada a la experiencia general del evento y actividades especiales
 ---
 
-El área de Experiencia tiene como misión crear momentos memorables y significativos para todos los asistentes de la conferencia. Se enfoca en diseñar la experiencia emocional del evento, desde la llegada hasta el cierre, asegurando que cada participante viva una experiencia transformadora que trascienda el contenido técnico y genere conexiones duraderas con la comunidad.
+El área de Experiencia tiene como misión lograr coherencia y que se sienta que se persigue la promesa del evento en cada espacio donde participen tanto asistentes como speakers. Se enfoca en definir qué debe vivir cada espacio para cumplir los pilares experienciales, coordinando con Producción los elementos ambientales (sonido, música, naturaleza), con Contenidos la narrativa de cada momento, y con Marketing la conexión con la promesa comunicada, asegurando una experiencia transformadora y auténtica.
 
 **Estado**: 🚧 En planificación
 
 ## Áreas de acción
 
-- **Diseño de experiencia del participante**: Journey mapping desde la llegada hasta el cierre
-- **Actividades de networking**: Espacios y dinámicas para generar conexiones
-- **Momentos especiales**: Ceremonias de apertura, cierre y actividades únicas
-- **Experiencias inmersivas**: Actividades que complementen el contenido técnico
-- **Ambiente y ambientación**: Creación de espacios que fomenten la comunidad
-- **Actividades de integración**: Dinámicas para romper el hielo y facilitar interacciones
-- **Follow-up post-evento**: Estrategias para mantener las conexiones generadas
+- **Definición de pilares experienciales**: Establecimiento de conceptos y promesas que debe cumplir cada espacio
+- **Diseño de coherencia espacial**: Definición de qué debe vivir cada espacio para perseguir la promesa del evento
+- **Coordinación inter-áreas**: Bajada de requerimientos experienciales a Producción, Contenidos y Marketing
+- **Ambientación estratégica**: Coordinación de elementos ambientales (sonido, música, conexión con naturaleza)
+- **Journey mapping integral**: Experiencia del participante desde la llegada hasta el cierre y post-evento
+- **Momentos de impacto**: Ceremonias, actividades especiales y experiencias memorables
+- **Actividades de conexión**: Networking, dinámicas de integración y facilitación de interacciones
 
 ## Responsabilidades
 

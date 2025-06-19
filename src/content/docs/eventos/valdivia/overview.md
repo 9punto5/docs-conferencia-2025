@@ -19,15 +19,15 @@ Esta experiencia es para ti:
 
 ## El viaje de tres días
 
-### **Día 1 - Conceptos**: Marcos para entender la complejidad
+**Día 1 - Conceptos**: Marcos para entender la complejidad
 
 Recibes lenguaje y conceptos para organizar el ruido. Historias reales que te ayudan a entender tu propia situación - no verdades absolutas, sino herramientas para pensar tu contexto específico.
 
-### **Día 2 - Contraste**: Cuando las ideas chocan con tu realidad
+**Día 2 - Contraste**: Cuando las ideas chocan con tu realidad
 
 El día donde tus conceptos se enfrentan a experiencias diversas. Conversaciones que revelan dónde tu entendimiento actual no encaja, y debates que reformulan tu perspectiva.
 
-### **Día 3 - Reformulación**: Tu propia voz en la transformación
+**Día 3 - Reformulación**: Tu propia voz en la transformación
 
 Procesas las diferencias entre lo que pensabas y lo que experimentaste. Te vas no con respuestas definitivas, sino con marcos refinados y tu propia síntesis para navegar la incertidumbre.
 
@@ -41,13 +41,13 @@ Procesas las diferencias entre lo que pensabas y lo que experimentaste. Te vas n
 
 ## Información práctica
 
-### Ubicación y capacidad
+**Ubicación y capacidad**
 
 - Venue principal con auditorio para 200-250 personas
 - Salas paralelas para talleres (10-30 personas cada una)
 - Espacios diseñados para networking y conexiones genuinas
 
-### Experiencia completa incluida
+**Experiencia completa incluida**
 
 - Transmisión online de charlas principales
 - Catering completo durante los tres días
@@ -55,17 +55,17 @@ Procesas las diferencias entre lo que pensabas y lo que experimentaste. Te vas n
 - Transporte coordinado desde aeropuerto y hoteles
 - Soporte técnico y logístico continuo
 
-### Conexión con otros eventos
+**Conexión con otros eventos**
 
 La conferencia se integra con el warm-up en Paillaco (5 nov) y los eventos preparatorios de Santiago, creando una experiencia extendida para la comunidad 9punto5.
 
-## Agendas Detalladas
+## Agendas detalladas
 
 - [Jueves 06 de noviembre](/eventos/valdivia/agenda/jueves-06)
 - [Viernes 07 de noviembre](/eventos/valdivia/agenda/viernes-07)
 - [Sábado 08 de noviembre](/eventos/valdivia/agenda/sabado-08)
 
-## Contactos Clave
+## Contactos clave
 
 - **Coordinación General**: [Por definir]
 - **Producción Local**: [Por definir]

@@ -12,7 +12,7 @@ El área de Contenidos es el corazón intelectual de la conferencia, responsable
 - **Diseño del programa**: Estructura y secuencia de actividades a lo largo de la conferencia
 - **Coordinación con speakers**: Comunicación, briefings y preparación de presentaciones
 - **Diversidad e inclusión**: Asegurar representación equilibrada en el programa
-- **Calidad de contenido**: Revisión y feedback para garantizar excelencia técnica
+- **Calidad de contenido**: Revisión y feedback para incentivar un buen performance
 - **Formatos innovadores**: Desarrollo de nuevas dinámicas y formatos de presentación
 
 ## Junio

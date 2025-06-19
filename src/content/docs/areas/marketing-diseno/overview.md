@@ -12,7 +12,7 @@ El área de Marketing y Diseño construye la identidad visual y narrativa de la 
 - **Gestión de redes sociales**: Contenido, community management y engagement
 - **Diseño gráfico**: Piezas promocionales, materiales impresos y digitales
 - **Venta de entradas**: Estrategias de preventa, tipos de entradas y promociones
-- **Gestión de sponsorship**: Desarrollo de propuestas y activación de auspicios
+- **Gestión de sponsorship**: Dar visibilidad y promover activación de sponsors
 - **Campaña de difusión**: Lanzamiento de speakers, programa y actividades
 
 ## Julio
