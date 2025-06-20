@@ -3,30 +3,88 @@ title: Producción
 description: Planificación de producción para la conferencia 2025
 ---
 
-El área de Producción se encarga de la planificación logística y operativa de la conferencia, coordinando todos los aspectos técnicos y materiales necesarios para el éxito del evento. Gestiona los tiempos, las personas del equipo de producción y los proveedores que participan en la conferencia, desde la definición de servicios hasta la ejecución en tiempo real, asegurando que cada detalle esté perfectamente orquestado para brindar una experiencia fluida y profesional a todos los participantes.
+El área de Producción se divide en dos roles complementarios que aseguran el éxito del evento: el **Coordinador de Producción** se enfoca en tener todo planificado y listo, mientras que los **Servicios de Producción** se concentran en la ejecución durante el evento.
 
-## Áreas de acción
+## Metodología de trabajo
 
-- **Planificación y expectativas**: Establecimiento de estándares, requerimientos y definición de expectativas del evento
-- **Coordinación estratégica**: Gestión de relaciones con proveedores externos, terceros y coordinación financiera para definir costos
-- **Gestión de proveedores**: Catering, audiovisual, streaming, merchandising, venues, transporte, outdoor y contratación de servicios
-- **Logística integral**: Definición y coordinación de espacios, venues, transporte, hospedaje y coordinación de traslados
-- **Infraestructura y montaje**: Coordinación de instalación y desarme de toda la infraestructura del evento
-- **Gestión de equipos**: Coordinación de staff, voluntarios y equipos de trabajo
-- **Ensayos y pruebas**: Pruebas técnicas de sonido, streaming, sistemas y coordinación general pre-evento
-- **Operativa del evento**: Ejecución minuto a minuto durante la conferencia y gestión en tiempo real
+**Principio:** Autonomía con visibilidad y feedback para ajustar la estrategia y la ejecución
 
-## Junio
+**Por qué es necesaria la visibilidad:**
+- Evita que el equipo asuma (bien o mal) sobre el trabajo de otros
+- Permite dar feedback constructivo basado en información real
+- Ayuda a defender estrategias y planes con fundamentos
+- Genera alineamiento sin sacrificar la autonomía
+- Previene que los planes queden "endebles y reactivos" por falta de documentación
+
+**Ejemplo de visibilidad en acción:** En lugar de "todo está bajo control", el coordinador comparte el cronograma de proveedores con semáforos de riesgo, avances de negociación y fechas críticas. Así el equipo puede anticipar problemas y ofrecer apoyo específico.
+
+**Ejemplos de artefactos para la visibilidad:**
+- Documentos de planificación operativa
+- Cronogramas y roadmaps con proveedores
+- Dashboards de seguimiento presupuestario
+- Resúmenes ejecutivos de avances
+- Checklists de preparación pre-evento
+
+*El coordinador puede proponer otros artefactos según las necesidades específicas del proyecto.*
+
+## Coordinador de Producción
+
+**Enfoque principal:** Planificación estratégica y coordinación pre-evento
+
+### Coordinación de servicios externos
+- Gestión y coordinación con proveedores: productora, catering, audiovisual, streaming, merchandising, venues, transporte
+- Negociación y seguimiento de contratos de servicios
+- Es la contraparte principal de los proveedores de producción
+
+### Logística de hospedaje y transporte
+- Gestión de hospedaje y viajes (pasajes)
+
+### Planificación operativa
+- Desarrollo del plan operativo basado en requerimientos del área de Experiencia
+- Coordinación de tiempos y cronogramas con proveedores
+- Ejecución del presupuesto
+
+### Preparación pre-evento
+- Coordinación de ensayos y pruebas técnicas
+- Supervisión del montaje de infraestructura
+- Validación de espacios y setups según lo planificado
+
+### Post-evento inmediato
+- Coordinación del desarme de infraestructura
+- Cierre operativo con proveedores
+
+## Servicios de Producción
+
+**Enfoque principal:** Ejecución operativa en tiempo real
+
+### Gestión operativa en vivo
+- Ejecución minuto a minuto de la producción según la agenda del evento
+- Coordinación en tiempo real entre áreas técnicas
+- Resolución inmediata de imprevistos
+
+### Coordinación de equipos en sitio
+- Dirección del staff operativo y voluntarios
+- Coordinación con proveedores durante la ejecución
+- Supervisión de servicios activos (catering, audiovisual, etc.)
+
+### Control técnico
+- Monitoreo de sistemas audiovisuales y streaming
+- Gestión de cambios técnicos durante el evento
+- Coordinación con el equipo técnico
+
+## Roadmap tentativo (solo de ejemplo)
+
+### Junio
 - **Definir lugar** del evento
 - **Convenio con hotel**
 - **Potenciales proveedores** (catering, audiovisual, montaje, streaming)
 
-## Julio
+### Julio
 - **Definición de proveedores** (catering, audiovisual, montaje)
 - **Comprar pasajes** para speakers
 - Organización y planificación evento preparación Santiago 1
 
-## Agosto
+### Agosto
 - **Comprar pasajes** (segunda tanda)
 - Impresos evento
 - Planificación gráficas espacio
@@ -37,7 +95,7 @@ El área de Producción se encarga de la planificación logística y operativa d
 - Planificación actividades al aire libre
 - Armado de programa
 
-## Septiembre
+### Septiembre
 - **Staff y voluntarios** (roles, turnos, capacitación)
 - Impresos evento
 - Diseño de gráficas espacio
@@ -45,7 +103,7 @@ El área de Producción se encarga de la planificación logística y operativa d
 ### Merchandising
 - Impresión y distribución (merch y credenciales)
 
-## Octubre
+### Octubre
 - **Ensayos y pruebas técnicas**
 - **Agenda minuto a minuto del evento**
 - **Moderadores y maestros de ceremonia**
@@ -53,7 +111,7 @@ El área de Producción se encarga de la planificación logística y operativa d
 - Impresión y distribución
 
 
-## Noviembre
+### Noviembre
 - **Pruebas de streaming**
 - **Logística Operativa Detallada**
 - **Catering**: menús específicos, cantidades, horarios de servicio
@@ -62,6 +120,6 @@ El área de Producción se encarga de la planificación logística y operativa d
 - Ejecución del evento
 - Coordinación logística en tiempo real
 
-## Fechas del Evento
+### Fechas del Evento
 - **Paillaco**: 5 de noviembre
 - **Conferencia Valdivia**: 6, 7 y 8 de noviembre
