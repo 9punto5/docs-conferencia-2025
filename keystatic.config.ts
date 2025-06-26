@@ -17,7 +17,7 @@ export default config({
     'planificacion': collection({
       label: 'Planificación',
       slugField: 'title',
-      path: 'src/content/docs/planificacion/*',
+      path: 'src/content/docs/planificacion/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
