@@ -48,8 +48,8 @@ export default config({
         }),
       },
     }),
-    'areas-experiencia-produccion': collection({
-      label: 'Áreas - Experiencia y producción',
+    'areas-produccion': collection({
+      label: 'Áreas - Producción',
       slugField: 'title',
       path: 'src/content/docs/areas/experiencia-produccion/**',
       format: { contentField: 'content' },
@@ -83,7 +83,7 @@ export default config({
       },
     }),
     'areas-tecnologia': collection({
-      label: 'Áreas - Tecnología',
+      label: 'Áreas - Tecnología y UX',
       slugField: 'title',
       path: 'src/content/docs/areas/tecnologia/**',
       format: { contentField: 'content' },
