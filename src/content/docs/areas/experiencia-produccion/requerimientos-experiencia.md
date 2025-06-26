@@ -9,6 +9,19 @@ Este documento establece los requerimientos específicos que el área de experie
 
 **Estado**: 🚧 En desarrollo
 
+## Estado Actual
+
+✅ **Con la información disponible ahora, producción puede:**
+- Crear un listado completo de todos los espacios posibles
+- Tantear fechas y hacer pre-reservas
+- Ofrecer características detalladas, fotos y ubicaciones
+- Calcular distancias y traslados entre posibles locales
+- Realizar mapeo y propuestas de lugares disponibles
+
+**Ver**: [Listado de lugares posibles](/areas/experiencia-produccion/listado-lugares)
+
+🎯 **Mientras antes definamos los requerimientos específicos, mejores opciones tendremos disponibles.**
+
 ## Requerimientos de Espacios
 
 ### Auditorio Principal
@@ -96,23 +109,6 @@ Este documento establece los requerimientos específicos que el área de experie
 - Dimensionar correctamente la logística
 - Obtener cotizaciones precisas de proveedores
 
-## Estado Actual
-
-✅ **Con la información disponible ahora, producción puede:**
-- Crear un listado completo de todos los espacios posibles
-- Tantear fechas y hacer pre-reservas
-- Ofrecer características detalladas, fotos y ubicaciones
-- Calcular distancias y traslados entre posibles locales
-- Realizar mapeo y propuestas de lugares disponibles
-
-🎯 **Mientras antes definamos los requerimientos específicos, mejores opciones tendremos disponibles.**
-
-## Notas Importantes
-
-⚠️ **Las agendas actuales en la documentación no reflejan la planificación real** - fueron autogeneradas y requieren revisión completa del área de experiencia.
-
-⚠️ **Flexibilidad vs Precisión** - Mantener opciones abiertas para diferentes locaciones mientras se proporcionan especificaciones suficientes para cotizar.
-
 ## Responsabilidades
 
 **Área de Experiencia**:
@@ -129,6 +125,12 @@ Este documento establece los requerimientos específicos que el área de experie
 - Validación de viabilidad técnica y presupuestaria
 - Ajustes de diseño según disponibilidad
 - Plan de contingencia
+
+## Notas Importantes
+
+⚠️ **Las agendas actuales en la documentación no reflejan la planificación real** - fueron autogeneradas y requieren revisión completa del área de experiencia.
+
+⚠️ **Flexibilidad vs Precisión** - Mantener opciones abiertas para diferentes locaciones mientras se proporcionan especificaciones suficientes para cotizar.
 
 ---
 
