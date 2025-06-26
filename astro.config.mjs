@@ -90,6 +90,7 @@ export default defineConfig({
 							label: 'Marketing y diseño',
 							items: [
 								{ label: 'Overview', link: '/areas/marketing-diseno/overview' },
+								{ label: 'Lineamientos CORFO', link: '/areas/marketing-diseno/lineamientos-corfo' },
 								{ label: 'Sponsorship', link: '/areas/marketing-diseno/sponsorship/overview' },
 							],
 						},

@@ -14,6 +14,7 @@ El área de Marketing y Diseño construye la narrativa de la conferencia, creand
 - **Venta de entradas**: Estrategias de venta de entradas
 - **Promoción de sponsorship**: Promoción de auspicios, generación de leads y visibilidad de sponsors [9punto5.cl/sponsorship](https://9punto5.cl/sponsorship)
 - **Campaña de difusión**: Lanzamiento de speakers, programa y actividades
+- **Lineamientos CORFO**: Cumplimiento de compromisos y requerimientos del financiamiento
 
 
 ### Actividades críticas (junio-julio)
