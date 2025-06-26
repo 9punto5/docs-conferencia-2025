@@ -43,7 +43,7 @@ El área de Producción se divide en dos roles complementarios que aseguran el �
 - Desarrollo del plan operativo basado en requerimientos del área de Experiencia
 - Coordinación de tiempos y cronogramas con proveedores
 - Ejecución del presupuesto
-- **Ver**: [Requerimientos del área de experiencia](/areas/experiencia-produccion/requerimientos-experiencia)
+- **Ver**: [Requerimientos del área de experiencia](/areas/produccion/requerimientos-experiencia)
 
 ### Preparación pre-evento
 - Coordinación de ensayos y pruebas técnicas

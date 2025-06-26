@@ -18,7 +18,7 @@ Este documento establece los requerimientos específicos que el área de experie
 - Calcular distancias y traslados entre posibles locales
 - Realizar mapeo y propuestas de lugares disponibles
 
-**Ver**: [Listado de lugares posibles](/areas/experiencia-produccion/listado-lugares)
+**Ver**: [Listado de lugares posibles](/areas/produccion/listado-lugares)
 
 🎯 **Mientras antes definamos los requerimientos específicos, mejores opciones tendremos disponibles.**
 

@@ -83,9 +83,9 @@ export default defineConfig({
 						{
 							label: 'Producción',
 							items: [
-								{ label: 'Overview', link: '/areas/experiencia-produccion/overview' },
-								{ label: 'Requerimientos de experiencia', link: '/areas/experiencia-produccion/requerimientos-experiencia' },
-								{ label: 'Listado de lugares posibles', link: '/areas/experiencia-produccion/listado-lugares' },
+								{ label: 'Overview', link: '/areas/produccion/overview' },
+								{ label: 'Requerimientos de experiencia', link: '/areas/produccion/requerimientos-experiencia' },
+								{ label: 'Listado de lugares posibles', link: '/areas/produccion/listado-lugares' },
 							],
 						},
 						{

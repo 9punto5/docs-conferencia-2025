@@ -51,7 +51,7 @@ export default config({
     'areas-produccion': collection({
       label: 'Áreas - Producción',
       slugField: 'title',
-      path: 'src/content/docs/areas/experiencia-produccion/**',
+      path: 'src/content/docs/areas/produccion/**',
       format: { contentField: 'content' },
       schema: {
         title: fields.slug({ name: { label: 'Título' } }),
