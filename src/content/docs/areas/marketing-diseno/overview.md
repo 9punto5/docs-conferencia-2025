@@ -18,7 +18,7 @@ El área de Marketing y Diseño construye la narrativa de la conferencia, creand
 - **Venta de entradas**: Estrategias de venta de entradas
 - **Visibilidad de sponsors**: Promoción y visibilidad de sponsors durante la conferencia (coordinado con [área de Producto](/areas/producto/overview))
 - **Campaña de difusión**: Lanzamiento de speakers, programa y actividades
-- **Lineamientos CORFO**: Cumplimiento de compromisos y requerimientos del financiamiento
+- **[Lineamientos CORFO](/areas/marketing-diseno/lineamientos-corfo)**: Cumplimiento de compromisos y requerimientos del financiamiento de CORFO
 
 
 ### Actividades críticas (junio-julio)
