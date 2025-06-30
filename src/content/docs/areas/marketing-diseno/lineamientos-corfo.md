@@ -14,9 +14,7 @@ Este documento establece los lineamientos específicos para cumplir con los comp
   - 200 presencial en Valdivia
   - 1000 en streaming (puede ser visualizaciones directas en vivo y/o visualizaciones de videos guardados)&nbsp;
   - 100 presencial en Paillaco\
-    \
 - **Indicadores de satisfacción**: Medir satisfacción por NPS.\
-  \
 - Listado de participantes con **nombre, rut, género, comuna de procedencia, contacto.**
 
 ### **Reportes Obligatorios**
@@ -79,76 +77,55 @@ Todo material de difusión (gráfico, digital o audiovisual) debe incluir el log
 
 ## **Compromisos de resultados por actividad**\
 
-1. **Actividad: Difusión y convocatoria (Campañas digitales, contacto con redes y comunidades)**
+1. ##### **Actividad: Difusión y convocatoria (Campañas digitales, contacto con redes y comunidades)**
 
-Meta: Alcanzar al menos 100.000 personas en redes (alcance), 50.000 vistas en publicaciones + 20 notas en medios locales/nacionales.
+- Meta: Alcanzar al menos 100.000 personas en redes (alcance), 50.000 vistas en publicaciones + 20 notas en medios locales/nacionales.
+- Indicador: N° de interacciones y alcance en redes.
+- Entregable/verificador: Reporte de engagement y analítica.
 
-Indicador: N° de interacciones y alcance en redes.
+2. ##### **Actividad: Organización y logística (Reserva de espacios, equipamiento y coordinación general)** \
+   **Meta: Asegurar todos los recursos logísticos necesarios**
 
-Entregable/verificador: Reporte de engagement y analítica.\
+- Disponibilidad de locaciones y servicios
+- Indicador: Eventos realizador
+- Entregable/verificador: Contratos y confirmaciones, confirmados en sedes.
 
-2. **Actividad: Organización y logística (Reserva de espacios, equipamiento y coordinación general) \
-   Meta: Asegurar todos los recursos logísticos necesarios**
+3. ##### **Actividad: Charlas magistrales**&nbsp;
 
-Disponibilidad de locaciones y servicios
+- Meta: 200 asistentes presenciales y 1.000 en streaming.
+- Indicadores: N° de asistentes y reproducciones online.
+- Entregables/verificador: Registro de asistencia y analítica de videos.
 
-Indicador: Eventos realizador
+4. ##### **Actividad: Talleres prácticos (Sesiones interactivas sobre IA y UX/UI**
 
-Entregable/verificador: Contratos y confirmaciones, confirmados en sedes.\
+- Capacitar en herramientas y estrategias aplicables
+- Indicador: Participación activa en talleres
+- Resultado: 80% de satisfacción de los participantes
+- Entregable/ verificador: Encuestas de retroalimentación
 
-3. **Actividad: Charlas magistrales**&nbsp;
+5. ##### **Actividad: Networking y mentorías**
 
-Meta: 200 asistentes presenciales y 1.000 en streaming.
+- Espacios facilitados para interacción y asesoría personalizada
+- Meta: Fomentar conexiones y oportunidades de colaboración
+- Resultado: N° de reuniones efectivas
+- Indicador:Al menos 50 conexiones establecidas
+- Entregable/verificador: formulario de feedback y registro de interacciones
 
-Indicadores: N° de asistentes y reproducciones online.
+6. ##### **Actividad: Evento en Paillaco**
 
-Entregables/verificador: Registro de asistencia y analítica de videos.\
-
-4. **Actividad: Talleres prácticos (Sesiones interactivas sobre IA y UX/UI**
-
-Capacitar en herramientas y estrategias aplicables
-
-Indicador: Participación activa en talleres
-
-Resultado: 80% de satisfacción de los participantes
-
-Entregable/ verificador: Encuestas de retroalimentación\
-
-5. **Actividad: Networking y mentorías**
-
-Espacios facilitados para interacción y asesoría personalizada
-
-Fomentar conexiones y oportunidades de colaboración
-
-N° de reuniones efectivas
-
-Al menos 50 conexiones establecidas
-
-Formulario de feedback y registro de interacciones\
-
-6. **Actividad: Evento en Paillaco**
-
-Versión local del evento con enfoque territorial
-
-Descentralizar y ampliar el impacto regional con al menos 100 participantes en el evento
-
-N° de asistentes locales
-
-Al menos 70% de asistentes de la comuna
-
-Registro de asistencia\
+- Versión local del evento con enfoque territorial
+- Meta: Descentralizar y ampliar el impacto regional con al menos 100 participantes en el evento
+- Resultado: N° de asistentes locales
+- Indicador: Al menos 70% de asistentes de la comuna
+- Entregable/verificador: Registro de asistencia
 
 7. **Evaluación y seguimiento**
 
-Análisis de impacto y documentación de resultados
-
-Medir éxito del evento y proponer mejoras
-
-N° de encuestas respondidas
-
-Al menos 100 encuestas completadas
-
-Reporte de evaluación
+- Análisis de impacto y documentación de resultados
+- Meta: Medir éxito del evento y proponer mejoras
+- Resultado: N° de encuestas respondidas
+- Indicador: Al menos 100 encuestas completadas
+- Entregable/verificador: Reporte de evaluación
 
 ---
 
