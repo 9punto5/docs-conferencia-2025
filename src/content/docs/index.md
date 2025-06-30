@@ -33,7 +33,7 @@ La conferencia está organizada en siete áreas principales de trabajo:
 - **[Producto](/areas/producto/overview)**: Sponsorship y relaciones comerciales
 - **[Marketing y diseño](/areas/marketing-diseno/overview)**: Comunicación y promoción
 - **[Tecnología y UX](/areas/tecnologia/overview)**: Sistemas digitales
-- **[Finanzas](/areas/finanzas/overview)**: Presupuesto y administración fiscal
+- **[Finanzas](/areas/finanzas/overview)**: Presupuesto y control financiero
 
 ### Recursos y documentación
 
