@@ -5,7 +5,8 @@ description: Área dedicada a la experiencia general del evento y actividades es
 
 El área de Experiencia tiene como misión lograr coherencia y que se sienta que se persigue la promesa del evento en cada espacio donde participen tanto asistentes como speakers. Se enfoca en definir qué debe vivir cada espacio para cumplir los pilares experienciales, coordinando con Producción los elementos ambientales (sonido, música, naturaleza), con Contenidos la narrativa de cada momento, y con Marketing la conexión con la promesa comunicada, asegurando una experiencia transformadora y auténtica.
 
-**Estado**: 🚧 En planificación
+**Estado**: 🚧 En planificación  
+**Responsable**: Daniela
 
 ## Áreas de acción
 

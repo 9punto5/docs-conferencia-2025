@@ -8,7 +8,7 @@ El área de Finanzas gestiona la sostenibilidad económica de la conferencia, eq
 ## Áreas de acción
 
 - **Planificación presupuestaria**: Desarrollo y seguimiento del presupuesto general por áreas, coordinación con otras áreas para definir costos
-- **Gestión de sponsors**: Negociación y cierre de auspicios corporativos (leads desde Marketing)
+- **Gestión administrativa de sponsors**: Facturación, contratos y administración fiscal de auspicios (gestión comercial coordinada con [área de Producto](/areas/producto/overview))
 - **Control de costos**: Monitoreo de gastos y optimización de recursos
 - **Estrategias de ingresos**: Venta de entradas, merchandising y servicios adicionales
 - **Análisis financiero**: Proyecciones, ROI y viabilidad económica del evento
@@ -124,4 +124,4 @@ El área de Finanzas gestiona la sostenibilidad económica de la conferencia, eq
 
 **Estado**: 🚧 En desarrollo  
 **Próxima actualización**: Septiembre 2025  
-**Responsable**: Área de finanzas
+**Responsable**: Fabián

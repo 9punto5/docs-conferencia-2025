@@ -5,6 +5,11 @@ description: Coordinación general y gestión transversal de la conferencia 2025
 
 El área de Coordinación es el núcleo organizativo de la conferencia, responsable de la gestión transversal y la sincronización entre todas las áreas del evento. Se encarga de establecer procesos, facilitar la comunicación interdisciplinaria, gestionar los tiempos globales del proyecto y asegurar que todas las partes trabajen en armonía hacia los objetivos comunes de la conferencia.
 
+---
+
+**Responsables**: Equipo core (Daniela, Felipe, Fabián)  
+**Coordinación**: Reuniones de viernes para alineación y seguimiento
+
 ## Áreas de acción
 
 - **Planificación estratégica**: Definición de objetivos, metas, expectativas del evento y roadmap general del proyecto

@@ -5,6 +5,10 @@ description: Planificación de producción para la conferencia 2025
 
 El área de Producción se divide en dos roles complementarios que aseguran el éxito del evento: el **Coordinador de Producción** se enfoca en tener todo planificado y listo, mientras que los **Servicios de Producción** se concentran en la ejecución durante el evento.
 
+---
+
+**Responsable**: Fabián
+
 ## Metodología de trabajo
 
 **Principio:** Autonomía con visibilidad y feedback para ajustar la estrategia y la ejecución

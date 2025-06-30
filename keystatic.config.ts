@@ -150,6 +150,23 @@ export default config({
         }),
       },
     }),
+    'areas-producto': collection({
+      label: 'Áreas - Producto',
+      slugField: 'title',
+      path: 'src/content/docs/areas/producto/**',
+      format: { contentField: 'content' },
+      schema: {
+        title: fields.slug({ name: { label: 'Título' } }),
+        description: fields.text({ 
+          label: 'Descripción',
+          multiline: true,
+        }),
+        content: fields.markdoc({
+          label: 'Contenido',
+          extension: 'md'
+        }),
+      },
+    }),
     'eventos': collection({
       label: 'Eventos',
       slugField: 'title',

@@ -5,6 +5,10 @@ description: Planificación de marketing y diseño para la conferencia 2025
 
 El área de Marketing y Diseño construye la narrativa de la conferencia, creando las estrategias de comunicación que conectan el evento con su audiencia. Se encarga de gestionar la presencia digital, coordinar campañas de difusión y diseñar todas las piezas gráficas que representan la experiencia 9punto5, asegurando coherencia e impacto en cada punto de contacto con la comunidad.
 
+---
+
+**Responsable**: Daniela
+
 ## Áreas de acción
 
 - **Identidad visual**: Aplicar marca, logo, paletas de colores y guías de estilo
@@ -12,14 +16,14 @@ El área de Marketing y Diseño construye la narrativa de la conferencia, creand
 - **Gestión de redes sociales**: Contenido, community management y engagement
 - **Coordinación Marketing y Diseño**: Insumos gráficos digitales para promoción y difusión
 - **Venta de entradas**: Estrategias de venta de entradas
-- **Promoción de sponsorship**: Promoción de auspicios, generación de leads y visibilidad de sponsors [9punto5.cl/sponsorship](https://9punto5.cl/sponsorship)
+- **Visibilidad de sponsors**: Promoción y visibilidad de sponsors durante la conferencia (coordinado con [área de Producto](/areas/producto/overview))
 - **Campaña de difusión**: Lanzamiento de speakers, programa y actividades
 - **Lineamientos CORFO**: Cumplimiento de compromisos y requerimientos del financiamiento
 
 
 ### Actividades críticas (junio-julio)
-- **Promoción de auspicios**: Identificar empresas interesadas y conectarlas con equipo core. Julio es el mes crítico para asegurar financiamiento a la conferencia 
 - **Venta temprana de entradas**: Activar ventas ASAP para que asistentes puedan planificar viaje (vuelos, hotel, agenda)
+- **Apoyo en promoción de auspicios**: Colaborar con [área de Producto](/areas/producto/overview) en la promoción de sponsorship
 
 ### Hitos clave
 - **Post 22 julio**: Anuncio de speakers seleccionados para impulsar venta de entradas

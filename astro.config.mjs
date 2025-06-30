@@ -89,6 +89,12 @@ export default defineConfig({
 							],
 						},
 						{
+							label: 'Producto',
+							items: [
+								{ label: 'Overview', link: '/areas/producto/overview' },
+							],
+						},
+						{
 							label: 'Marketing y diseño',
 							items: [
 								{ label: 'Overview', link: '/areas/marketing-diseno/overview' },

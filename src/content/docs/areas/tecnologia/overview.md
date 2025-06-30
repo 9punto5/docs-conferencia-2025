@@ -5,6 +5,10 @@ description: Planificación tecnológica para la conferencia 2025
 
 El área de Tecnología y UX desarrolla y mantiene toda la infraestructura digital que soporta la conferencia, desde plataformas de registro hasta sistemas de streaming. Se enfoca en crear experiencias digitales intuitivas y eficientes para asistentes, speakers y organizadores, asegurando que la tecnología facilite y enriquezca cada aspecto del evento sin ser una barrera.
 
+---
+
+**Responsable**: Fabián
+
 ## Áreas de acción
 
 - **Sistema de acreditación**: Plataforma de registro, check-in y gestión de asistentes

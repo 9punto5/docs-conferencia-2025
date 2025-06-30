@@ -5,6 +5,10 @@ description: Planificación de contenidos para la conferencia 2025
 
 El área de Contenidos es el corazón intelectual de la conferencia, responsable de curar y organizar las charlas, talleres y actividades que promueve los temas y perspectivas de la conferencia. Se encarga de identificar, seleccionar y coordinar a los mejores speakers y facilitadores, asegurando que el programa ofrezca contenido de alta calidad, diverso y relevante para la comunidad tech de Latinoamérica.
 
+---
+
+**Responsable**: Felipe
+
 ## Áreas de acción
 
 - **Curaduría de speakers**: Identificación, evaluación y selección de ponentes nacionales e internacionales
