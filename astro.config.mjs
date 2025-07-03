@@ -74,6 +74,7 @@ export default defineConfig({
 							label: 'Experiencia',
 							items: [
 								{ label: 'Overview', link: '/areas/experiencia/overview' },
+								{ label: 'Estrategia de experiencia', link: '/areas/experiencia/estrategia-de-experiencia' },
 								{
 									label: 'Equipo',
 									items: [

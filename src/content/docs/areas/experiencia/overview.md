@@ -29,6 +29,10 @@ Este área se enfoca en crear una experiencia memorable y cohesiva para todos lo
 - Gestión de momentos clave del evento
 - Creación de experiencias memorables
 
+## Documentos relacionados
+
+- [Estrategia de experiencia](/areas/experiencia/estrategia-de-experiencia) - Definición detallada de los pilares experienciales y metodología
+
 ## Próximos pasos
 
 - [ ] Definir estructura del equipo
