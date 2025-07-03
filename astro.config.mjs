@@ -10,6 +10,9 @@ export default defineConfig({
 	site: 'https://docs.9punto5.cl', // También funciona en Netlify gratis
 	output: 'server',
 	adapter: netlify(),
+	redirects: {
+		'/admin': '/keystatic'
+	},
 	integrations: [
 		react(),
 		keystatic(),
