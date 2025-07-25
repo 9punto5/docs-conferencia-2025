@@ -7,11 +7,11 @@ description: Planificación financiera y presupuesto de la conferencia 2025
 
 ## Estado actual
 
-✅ **Presupuesto consolidado y aprobado**
+🚧 **Presupuesto en desarrollo y ajuste**
 
-El presupuesto detallado de la conferencia 2025 está finalizado con financiamiento mixto confirmado y en proceso de ejecución según cronograma establecido.
+El presupuesto detallado de la conferencia 2025 está en proceso de ajuste y ejecución, sujeto a confirmación de financiamiento y a la evolución del cronograma del proyecto.
 
-**→ [Ver presupuesto detallado](https://docs.google.com/spreadsheets/d/16Jr-4L1M3vwD5PF8dN0ViSOBZQ1HS2_i/edit?usp=sharing&ouid=111782249911100052915&rtpof=true&sd=true)**
+**→ [Ver presupuesto detallado (en desarrollo)](https://docs.google.com/spreadsheets/d/16Jr-4L1M3vwD5PF8dN0ViSOBZQ1HS2_i/edit?usp=sharing&ouid=111782249911100052915&rtpof=true&sd=true)**
 
 ## Estructura de financiamiento
 
@@ -76,6 +76,6 @@ Para más detalles sobre áreas específicas:
 
 ---
 
-**Estado**: ✅ Consolidado y en ejecución  
+**Estado**: 🚧 En desarrollo y ajuste  
 **Responsable**: Área financiera  
 **Última actualización**: Octubre 2024
