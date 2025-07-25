@@ -5,41 +5,69 @@ description: Gestión de productos y relaciones comerciales de 9punto5
 
 El área de Producto se encarga de generar, desarrollar y gestionar oportunidades comerciales que agreguen valor tanto a los sponsors como a la comunidad de 9punto5. Esta área busca crear relaciones comerciales sostenibles y productos que trasciendan la conferencia anual, estableciendo vínculos estratégicos de mediano y largo plazo.
 
+**Responsable**: Felipe  
+**Landing activa**: [9punto5.cl/sponsorship](https://9punto5.cl/sponsorship)  
+**Gestión de leads**: [9punto5.cl/admin/leads](https://9punto5.cl/admin/leads)
+
 ## Áreas de acción
 
-- **Gestión de sponsorship**: Desarrollo de propuestas comerciales, segmentación de audiencias y productos diferenciados
-- **Relaciones comerciales**: Construcción de alianzas estratégicas y partnerships de largo plazo
-- **Productos post-conferencia**: Desarrollo de iniciativas que mantengan valor durante todo el año
-- **Estrategia comercial**: Definición de criterios para alianzas, pricing y segmentación de mercado
-- **Gestión de leads**: Seguimiento y nurturing de empresas interesadas en colaborar
+- **Sponsorship y captación**: Landing page en [9punto5.cl/sponsorship](https://9punto5.cl/sponsorship) con sistema automatizado de leads en [9punto5.cl/admin/leads](https://9punto5.cl/admin/leads)
+- **Gestión comercial**: Desarrollo de relaciones comerciales, negociación y cierre de acuerdos
+- **Relaciones estratégicas**: Construcción de alianzas a largo plazo y partnerships estratégicos
+- **Productos y experiencias**: Desarrollo de ofertas segmentadas y experiencias post-conferencia
+
+## Proceso de Sponsorship
+
+### **Sistema automatizado de captación**
+El proceso de sponsorship opera a través de una landing page dedicada con flujo automatizado:
+
+**🔗 Landing Page**: [9punto5.cl/sponsorship](https://9punto5.cl/sponsorship)
+- **Conoce**: Acceso inmediato a planes de sponsorship y precios
+- **Me interesa**: Registro automático al sistema interno de leads de auspicio
+
+### **Gestión de leads de auspicio**
+- **Sistema interno**: [9punto5.cl/admin/leads](https://9punto5.cl/admin/leads)
+- **Captura automatizada**: Los registros de empresas interesadas se procesan automáticamente
+- **Asignación**: Los leads se asignan en el sistema para iniciar el proceso de contacto
+- **Seguimiento**: Contacto directo con potenciales auspiciadores y desarrollo de la relación comercial
 
 ## Responsabilidades
 
-### Sponsorship 2025
-- Rediseñar la propuesta actual de sponsorship para hacerla más atractiva y segmentada
-- Crear diferentes niveles y tipos de productos según necesidades específicas
-- Gestionar el proceso de ventas y seguimiento de sponsors
-- Coordinar entregables y cumplimiento de compromisos con sponsors
+### **Gestión comercial de sponsors**
+- Atención y seguimiento de leads de auspicio generados automáticamente
+- Desarrollo de relaciones comerciales con potenciales auspiciadores
+- Negociación y cierre de acuerdos de auspicio
+- Coordinación con finanzas para facturación y contratos de sponsors
 
-### Desarrollo de productos
-- **Productos segmentados**: Auspicios específicos por tipo de actividad (talleres, outdoor, networking)
-- **Relaciones de largo plazo**: Contratos anuales o multi-año con empresas alineadas
-- **Experiencias post-evento**: Productos que mantengan la relación durante todo el año
+### **Desarrollo de productos**
+- **Ofertas segmentadas**: Diferentes niveles de sponsorship según necesidades y presupuesto
+- **Experiencias diferenciadas**: Auspicios específicos por actividad (talleres, networking, outdoor)
+- **Relaciones estratégicas**: Partnerships anuales o multi-año con empresas alineadas
+- **Productos post-evento**: Iniciativas que mantengan valor durante todo el año
 
-## Objetivos 2025
+## Conferencia 2025: Sponsorship
 
-### Meta de sponsorship
-- Asegurar financiamiento suficiente para cubrir costos operativos
-- Diversificar portafolio de sponsors en diferentes categorías
-- Establecer al menos 2 relaciones comerciales de largo plazo
+### **"Revolución IA: de lo inevitable a lo posible"**
+**📅 6-8 Noviembre 2025 | 📍 Valdivia**
 
-### Desarrollo estratégico
-- Definir criterios claros para selección de partners comerciales
-- Crear productos diferenciados que faciliten las ventas
-- Establecer procesos de seguimiento y gestión de leads
+- **9ª edición** de la conferencia internacional sobre tecnología y futuro del trabajo más grande del sur de Chile
+- **3 días** de ideas, conversaciones reales y naturaleza valdiviana
+- **Desde 2016** construyendo comunidad de tecnología y liderazgo
 
----
+### **Objetivos comerciales 2025**
+- Consolidar financiamiento a través de sponsors estratégicos
+- Diversificar portafolio en diferentes categorías comerciales
+- Optimizar proceso automatizado de captación y conversión
+- Establecer relaciones comerciales de largo plazo
 
-**Estado**: 🚧 En desarrollo  
-**Responsable**: Felipe  
-**Próximos pasos**: Rediseño de propuesta de sponsorship actual
+## Coordinación con otras áreas
+
+### **Finanzas**
+- Traspaso de sponsors confirmados para gestión administrativa y fiscal
+- Coordinación en facturación y contratos
+- Reporte de ingresos por sponsorship
+
+### **Marketing y diseño**
+- Activación de sponsors en comunicaciones y campaigns
+- Desarrollo de materiales promocionales para sponsors
+- Gestión de visibilidad de marca en eventos

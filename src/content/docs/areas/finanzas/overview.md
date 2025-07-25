@@ -5,35 +5,53 @@ description: Gestión financiera, presupuesto y sponsors de la conferencia 2025
 
 El área de Finanzas gestiona la sostenibilidad económica de la conferencia, equilibrando recursos, ingresos y gastos para asegurar un evento de calidad y financieramente viable. Se encarga de desarrollar estrategias de financiamiento, gestionar relaciones con sponsors, controlar presupuestos y optimizar la rentabilidad, manteniendo siempre la transparencia y la responsabilidad fiscal que caracterizan a la organización.
 
+
+**Estado**: 🚧 En desarrollo  
+**Próxima actualización**: Agosto 2025  
+**Responsable**: Fabián
+
+## Estado del presupuesto
+
+📊 **El presupuesto detallado de la conferencia está disponible y actualizado.**
+
+Puedes revisar el detalle completo en la sección de [presupuesto](/areas/finanzas/presupuesto) dentro de esta documentación.
+
+El presupuesto incluye:
+- **Estructura de financiamiento**: Financiamiento mixto con aportes institucionales y propios
+- **Categorías principales**: Recursos humanos, producción, marketing, logística y administración
+- **Control de costos**: Seguimiento detallado de gastos por proveedor y área
+- **Gestión de pagos**: Sistema de rendición y documentación completa
+- **Proyección total**: Presupuesto consolidado para el evento completo
+
 ## Áreas de acción
 
-- **Planificación presupuestaria**: Desarrollo y seguimiento del presupuesto general por áreas, coordinación con otras áreas para definir costos
-- **Gestión administrativa de sponsors**: Facturación, contratos y administración fiscal de auspicios (gestión comercial coordinada con [área de Producto](/areas/producto/overview))
-- **Control de costos**: Monitoreo de gastos y optimización de recursos
-- **Estrategias de ingresos**: Venta de entradas, merchandising y servicios adicionales
-- **Análisis financiero**: Proyecciones, ROI y viabilidad económica del evento
-- **Administración fiscal**: Facturación, contabilidad y cumplimiento tributario
-- **Reporting financiero**: Informes de estado y transparencia para stakeholders
+- **Planificación presupuestaria**: Desarrollo y seguimiento del presupuesto general por categorías (RRHH, producción, marketing, logística, administración)
+- **Gestión de financiamiento**: Administración de fondos institucionales y aportes propios, cumplimiento de requisitos de rendición
+- **Control de proveedores**: Gestión de cotizaciones, contratos y pagos a proveedores especializados
+- **Administración de honorarios**: Gestión de pagos a expertos, speakers, equipo de trabajo y servicios profesionales
+- **Seguimiento de gastos**: Control detallado de ejecución presupuestaria con documentación completa
+- **Gestión administrativa**: Garantías, seguros y cumplimiento de obligaciones fiscales
+- **Reporting financiero**: Informes de estado y transparencia para financiadores y stakeholders
 
 ## Responsabilidades principales
 
-### **Planificación financiera**
-- Desarrollo y seguimiento del presupuesto general
-- Proyección de ingresos y gastos
-- Control de costos por área
-- Reportes financieros periódicos
+### **Gestión de financiamiento institucional**
+- Administración de fondos y cumplimiento de requisitos
+- Rendición detallada con documentación completa
+- Seguimiento de cronograma de desembolsos
+- Reportes de avance para organismos financiadores
 
-### **Gestión de sponsors**
-- Venta de auspicios y patrocinios
-- Desarrollo de propuestas comerciales
-- Negociación de contratos y beneficios
-- Activación de sponsors durante el evento
+### **Control presupuestario integral**
+- Seguimiento de las 6 categorías principales de gasto
+- Gestión de cotizaciones y selección de proveedores
+- Control de ejecución vs presupuesto aprobado
+- Documentación completa de gastos e ingresos
 
-### **Control presupuestario**
-- Seguimiento de gastos vs presupuesto
-- Aprobación de compras y contratos
-- Gestión de flujo de caja
-- Análisis de rentabilidad
+### **Administración de pagos**
+- Gestión de honorarios de equipo y expertos
+- Pagos a proveedores con documentación fiscal adecuada
+- Control de retenciones e impuestos
+- Administración de garantías y seguros
 
 ## Áreas de trabajo
 
@@ -42,10 +60,8 @@ El área de Finanzas gestiona la sostenibilidad económica de la conferencia, eq
 - Categorías de ingresos y gastos
 - Proyecciones y control de costos
 
-### **[Sponsors](/areas/finanzas/sponsors)**
-- Estrategia comercial de patrocinios
-- Niveles de auspicio y beneficios
-- Gestión de relaciones comerciales
+### **Gestión de sponsors**
+La gestión comercial de sponsors y patrocinios es coordinada por el **[área de Producto](/areas/producto/overview)** a través de su sistema automatizado de captación en [9punto5.cl/sponsorship](https://9punto5.cl/sponsorship). Finanzas se encarga de la administración fiscal y facturación de los auspicios confirmados.
 
 ## Timeline financiero
 
@@ -93,10 +109,15 @@ El área de Finanzas gestiona la sostenibilidad económica de la conferencia, eq
 
 ## Coordinación con otras áreas
 
+### **Producto**
+- Recepción de sponsors y auspicios confirmados
+- Administración fiscal y facturación de patrocinios
+- Soporte en contratos y aspectos legales
+
 ### **Marketing y diseño**
 - Estrategia de venta de entradas
-- Activación de sponsors en comunicaciones
 - Presupuesto para campañas promocionales
+- Activación de sponsors en comunicaciones
 
 ### **Experiencia y producción**
 - Presupuesto para proveedores y servicios
@@ -105,23 +126,20 @@ El área de Finanzas gestiona la sostenibilidad económica de la conferencia, eq
 
 ### **Tecnología**
 - Presupuesto para sistemas y herramientas
-- Sponsors tecnológicos
 - Plataformas de pago y acreditación
+
+### **Contenidos**
+- Presupuesto para honorarios de speakers y expertos
+- Definición de capacidad de inversión en speakers internacionales
+- Coordinación de costos con área de contenidos para curaduría
 
 ## Contactos clave
 
 ### **Responsables**
-- **Coordinación financiera**: [Por definir]
-- **Gestión de sponsors**: [Por definir]
-- **Control presupuestario**: [Por definir]
+- **Coordinación financiera**: Fabián
+- **Gestión y oportunidades de patrocinio**: Felipe y Fabián *(pendiente el proceso de formalización)*
+- **Control presupuestario**: Fabián
 
 ### **Para consultas**
-- **Presupuesto**: [Por definir]
-- **Oportunidades de patrocinio**: [Por definir]
-- **Contabilidad**: [Por definir]
-
----
-
-**Estado**: 🚧 En desarrollo  
-**Próxima actualización**: Septiembre 2025  
-**Responsable**: Fabián
+- **Presupuesto**: Fabián
+- **Contabilidad**: Contador 9punto5
